@@ -17,7 +17,7 @@
     -   [Using our TWARC Notebook](#using-our-twarc-notebook)
         -   [Using Hydrator](#using-hydrator)
         -   [Using Twarc](#using-twarc)
--   [Inquiries](#inquiries)
+-   [Inquiries & Requests](#inquiries-requests)
 -   [Licensing](#licensing)
 -   [References](#references)
 
@@ -1766,10 +1766,15 @@ repository](https://github.com/DocNow/hydrator).
 Follow the instructions on the [Twarc github
 repository](https://github.com/DocNow/twarc).
 
-Inquiries
-=========
+Inquiries & Requests
+====================
 
-For questions about the dataset, please contact Dr. Christian Lopez at
+If you would like to filter the tweets’ ID based on some metadata not
+provided on the repo (e.g., geolocation), if you would like to run some
+additional analyses on the full tweet text data (e.g., sentiment
+analysis using another language model, topic modeling, etc.), or if you
+have any questions about the dataset, please contact Dr. Christian Lopez
+at
 **<a href="mailto:lopezbec@lafayette.edu" class="email">lopezbec@lafayette.edu</a>**
 
 Licensing
