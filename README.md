@@ -1777,6 +1777,9 @@ have any questions about the dataset, please contact Dr. Christian Lopez
 at
 **<a href="mailto:lopezbec@lafayette.edu" class="email">lopezbec@lafayette.edu</a>**
 
+Existing filters performed are located in ‘Tweets\_ID\_Filter\_requests’
+directory
+
 Licensing
 =========
 
