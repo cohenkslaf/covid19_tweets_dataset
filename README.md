@@ -29,7 +29,7 @@ This repo only contatins the data and statistics for 2021. For the data of 2020 
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 09/25/2021 there were a total of **2,230,640,905** tweets
+As of 09/27/2021 there were a total of **2,235,643,194** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -341,11 +341,11 @@ Data Statistics
 General Statistics
 ------------------
 
-As of 09/25/2021:
+As of 09/27/2021:
 
-Total Number of tweets: **2,230,640,905**
+Total Number of tweets: **2,235,643,194**
 
-Average daily number of tweets: **150,228**
+Average daily number of tweets: **150,093**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1097,25 +1097,25 @@ Max No. Likes
 9
 </td>
 <td style="text-align:left;">
-40,210
+39,482
 </td>
 <td style="text-align:left;">
-89,489
+88,204
 </td>
 <td style="text-align:left;">
-130,323
+127,492
 </td>
 <td style="text-align:left;">
-24,831,001
+26,428,016
 </td>
 <td style="text-align:left;">
-54,507,414
+57,912,688
 </td>
 <td style="text-align:left;">
-79,338,415
+84,340,704
 </td>
 <td style="text-align:left;">
-9,575
+10,284
 </td>
 <td style="text-align:left;">
 1,107,188
@@ -1129,7 +1129,7 @@ Max No. Likes
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 4,123,129 tweets with geolocation information, which
+There is a total of 4,123,838 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1160,10 +1160,10 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-1,442,630,792
+1,446,101,212
 </td>
 <td style="text-align:right;">
-64.78
+64.79
 </td>
 </tr>
 <tr>
@@ -1171,10 +1171,10 @@ English
 Spanish; Castilian
 </td>
 <td style="text-align:left;">
-274,311,820
+274,731,182
 </td>
 <td style="text-align:right;">
-12.32
+12.31
 </td>
 </tr>
 <tr>
@@ -1182,7 +1182,7 @@ Spanish; Castilian
 Portuguese
 </td>
 <td style="text-align:left;">
-97,078,676
+97,258,676
 </td>
 <td style="text-align:right;">
 4.36
@@ -1193,7 +1193,7 @@ Portuguese
 Bahasa
 </td>
 <td style="text-align:left;">
-70,425,043
+70,518,722
 </td>
 <td style="text-align:right;">
 3.16
@@ -1204,7 +1204,7 @@ Bahasa
 French
 </td>
 <td style="text-align:left;">
-68,159,825
+68,353,101
 </td>
 <td style="text-align:right;">
 3.06
@@ -1215,10 +1215,10 @@ French
 Others
 </td>
 <td style="text-align:left;">
-274,485,479
+275,131,031
 </td>
 <td style="text-align:right;">
-12.32
+12.33
 </td>
 </tr>
 </tbody>
@@ -1298,19 +1298,19 @@ covid-19
 14,106,218
 </td>
 <td style="text-align:left;">
-119,608,149
+119,807,782
 </td>
 <td style="text-align:left;">
-20,963,213
+20,369,553
 </td>
 <td style="text-align:left;">
-17,679,605
+17,666,434
 </td>
 <td style="text-align:left;">
-12,841,729
+12,648,281
 </td>
 <td style="text-align:left;">
-25,278,623
+25,164,078
 </td>
 </tr>
 <tr>
@@ -1321,7 +1321,7 @@ covid-19
 \#coronavirus
 </td>
 <td style="text-align:left;">
-biden
+covid
 </td>
 <td style="text-align:left;">
 uk
@@ -1338,19 +1338,19 @@ covid
 7,159,966
 </td>
 <td style="text-align:left;">
-43,004,769
+43,026,675
 </td>
 <td style="text-align:left;">
-12,996,856
+13,078,610
 </td>
 <td style="text-align:left;">
-11,181,359
+11,118,883
 </td>
 <td style="text-align:left;">
-8,017,439
+8,137,609
 </td>
 <td style="text-align:left;">
-20,174,488
+20,309,984
 </td>
 </tr>
 <tr>
@@ -1361,7 +1361,7 @@ covid
 \#covid
 </td>
 <td style="text-align:left;">
-covid
+biden
 </td>
 <td style="text-align:left;">
 india
@@ -1378,19 +1378,19 @@ americans
 4,217,090
 </td>
 <td style="text-align:left;">
-14,722,111
+14,754,010
 </td>
 <td style="text-align:left;">
-12,920,565
+12,922,811
 </td>
 <td style="text-align:left;">
-11,049,324
+11,073,584
 </td>
 <td style="text-align:left;">
-3,463,031
+3,564,308
 </td>
 <td style="text-align:left;">
-10,921,402
+10,787,977
 </td>
 </tr>
 <tr>
@@ -1421,16 +1421,16 @@ covid19
 3,502,685
 </td>
 <td style="text-align:left;">
-3,390,172
+3,414,463
 </td>
 <td style="text-align:left;">
-8,453,754
+8,306,660
 </td>
 <td style="text-align:left;">
-2,679,552
+2,631,167
 </td>
 <td style="text-align:left;">
-5,743,141
+5,782,683
 </td>
 </tr>
 <tr>
@@ -1461,16 +1461,16 @@ republicans
 2,252,353
 </td>
 <td style="text-align:left;">
-2,297,696
+2,172,746
 </td>
 <td style="text-align:left;">
-3,941,757
+4,042,634
 </td>
 <td style="text-align:left;">
 1,605,602
 </td>
 <td style="text-align:left;">
-2,499,222
+2,472,784
 </td>
 </tr>
 </tbody>
@@ -1535,16 +1535,16 @@ covid-19
 </tr>
 <tr>
 <td style="text-align:left;">
-4,072,431
+4,061,304
 </td>
 <td style="text-align:left;">
-3,804,198
+3,787,583
 </td>
 <td style="text-align:left;">
-3,832,944
+3,821,707
 </td>
 <td style="text-align:left;">
-23,230,640
+23,120,236
 </td>
 </tr>
 <tr>
@@ -1563,16 +1563,16 @@ covid
 </tr>
 <tr>
 <td style="text-align:left;">
-2,186,125
+2,169,003
 </td>
 <td style="text-align:left;">
-3,016,636
+3,007,519
 </td>
 <td style="text-align:left;">
-1,960,002
+1,941,714
 </td>
 <td style="text-align:left;">
-14,632,052
+14,577,526
 </td>
 </tr>
 <tr>
@@ -1594,13 +1594,13 @@ covid19
 1,185,259
 </td>
 <td style="text-align:left;">
-1,560,026
+1,547,484
 </td>
 <td style="text-align:left;">
-1,922,380
+1,927,745
 </td>
 <td style="text-align:left;">
-13,139,186
+13,069,426
 </td>
 </tr>
 <tr>
@@ -1622,13 +1622,13 @@ coronavirus
 294,089
 </td>
 <td style="text-align:left;">
-680,109
+680,310
 </td>
 <td style="text-align:left;">
-958,936
+945,847
 </td>
 <td style="text-align:left;">
-4,157,520
+4,124,551
 </td>
 </tr>
 <tr>
@@ -1636,7 +1636,7 @@ coronavirus
 trump
 </td>
 <td style="text-align:left;">
-madrid
+cuba
 </td>
 <td style="text-align:left;">
 oms
@@ -1650,7 +1650,7 @@ delta
 264,058
 </td>
 <td style="text-align:left;">
-678,516
+663,787
 </td>
 <td style="text-align:left;">
 680,663
