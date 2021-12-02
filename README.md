@@ -1371,16 +1371,16 @@ covid-19
 123,458,658
 </td>
 <td style="text-align:left;">
-12,457,346
+12,357,036
 </td>
 <td style="text-align:left;">
-15,940,707
+15,449,130
 </td>
 <td style="text-align:left;">
-11,971,407
+12,238,614
 </td>
 <td style="text-align:left;">
-22,222,117
+21,674,268
 </td>
 </tr>
 <tr>
@@ -1394,7 +1394,7 @@ covid-19
 biden
 </td>
 <td style="text-align:left;">
-uk
+india
 </td>
 <td style="text-align:left;">
 covid
@@ -1411,16 +1411,16 @@ covid
 43,406,718
 </td>
 <td style="text-align:left;">
-11,507,281
+10,752,580
 </td>
 <td style="text-align:left;">
-11,388,231
+11,245,775
 </td>
 <td style="text-align:left;">
-8,806,254
+8,956,341
 </td>
 <td style="text-align:left;">
-20,676,268
+20,870,520
 </td>
 </tr>
 <tr>
@@ -1434,7 +1434,7 @@ covid
 trump
 </td>
 <td style="text-align:left;">
-india
+uk
 </td>
 <td style="text-align:left;">
 pfizer
@@ -1451,16 +1451,16 @@ americans
 15,442,315
 </td>
 <td style="text-align:left;">
-9,458,629
+7,713,766
 </td>
 <td style="text-align:left;">
-11,215,357
+11,188,318
 </td>
 <td style="text-align:left;">
-3,991,884
+3,875,477
 </td>
 <td style="text-align:left;">
-8,579,723
+8,175,503
 </td>
 </tr>
 <tr>
@@ -1491,16 +1491,16 @@ covid19
 3,552,497
 </td>
 <td style="text-align:left;">
-3,097,444
+2,970,146
 </td>
 <td style="text-align:left;">
-6,660,383
+6,371,246
 </td>
 <td style="text-align:left;">
-1,793,263
+1,864,696
 </td>
 <td style="text-align:left;">
-5,835,030
+5,894,993
 </td>
 </tr>
 <tr>
@@ -1514,7 +1514,7 @@ covid19
 joe biden
 </td>
 <td style="text-align:left;">
-florida
+covid
 </td>
 <td style="text-align:left;">
 senate
@@ -1531,16 +1531,16 @@ republicans
 2,252,353
 </td>
 <td style="text-align:left;">
-1,493,453
+1,151,985
 </td>
 <td style="text-align:left;">
-4,198,564
+4,353,630
 </td>
 <td style="text-align:left;">
-1,743,957
+1,722,366
 </td>
 <td style="text-align:left;">
-1,984,168
+1,995,608
 </td>
 </tr>
 </tbody>
@@ -1605,16 +1605,16 @@ covid-19
 </tr>
 <tr>
 <td style="text-align:left;">
-3,550,902
+3,527,515
 </td>
 <td style="text-align:left;">
-3,659,053
+3,634,316
 </td>
 <td style="text-align:left;">
-3,667,482
+3,606,900
 </td>
 <td style="text-align:left;">
-22,202,087
+21,993,034
 </td>
 </tr>
 <tr>
@@ -1633,16 +1633,16 @@ covid
 </tr>
 <tr>
 <td style="text-align:left;">
-2,083,404
+2,049,763
 </td>
 <td style="text-align:left;">
-2,995,825
+2,982,223
 </td>
 <td style="text-align:left;">
-1,931,017
+1,936,942
 </td>
 <td style="text-align:left;">
-14,060,230
+13,995,945
 </td>
 </tr>
 <tr>
@@ -1661,16 +1661,16 @@ covid19
 </tr>
 <tr>
 <td style="text-align:left;">
-1,165,930
+1,153,838
 </td>
 <td style="text-align:left;">
-1,350,282
+1,298,953
 </td>
 <td style="text-align:left;">
-1,583,151
+1,539,661
 </td>
 <td style="text-align:left;">
-12,711,382
+12,597,767
 </td>
 </tr>
 <tr>
@@ -1689,16 +1689,16 @@ coronavirus
 </tr>
 <tr>
 <td style="text-align:left;">
-298,903
+300,893
 </td>
 <td style="text-align:left;">
-785,011
+809,244
 </td>
 <td style="text-align:left;">
-799,129
+749,059
 </td>
 <td style="text-align:left;">
-3,775,747
+3,680,458
 </td>
 </tr>
 <tr>
@@ -1720,13 +1720,13 @@ delta
 120,314
 </td>
 <td style="text-align:left;">
-609,177
+591,895
 </td>
 <td style="text-align:left;">
-591,146
+606,639
 </td>
 <td style="text-align:left;">
-283,980
+297,178
 </td>
 </tr>
 </tbody>
