@@ -1,6 +1,10 @@
--   [This repo only contatins the data and statistics for 2021. For the
-    data of 2020 please
-    visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>](#this-repo-only-contatins-the-data-and-statistics-for-2021.-for-the-data-of-2020-please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2020)
+-   [This repo only contatins the data and statistics
+    for 2022.](#this-repo-only-contatins-the-data-and-statistics-for-2022.)
+-   [For the data of:](#for-the-data-of)
+    -   [-2020 please
+        visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>](#please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2020)
+    -   [-2021 please
+        visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2021" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2021</a>](#please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2021)
 -   [Data Organization](#data-organization)
 -   [Data Statistics](#data-statistics)
     -   [General Statistics](#general-statistics)
@@ -21,8 +25,15 @@
 -   [Licensing](#licensing)
 -   [References](#references)
 
-This repo only contatins the data and statistics for 2021. For the data of 2020 please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This repo only contatins the data and statistics for 2022.
+----------------------------------------------------------
+
+For the data of:
+----------------
+
+### -2020 please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>
+
+### -2021 please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2021" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2021</a>
 
 ------------------------------------------------------------------------
 
