@@ -37,7 +37,7 @@ This repo only contatins the data and statistics for 2022.For the data of:
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 01/01/2022 there were a total of **2,505,349,682** tweets
+As of 01/02/2022 there were a total of **2,509,277,169** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -349,11 +349,11 @@ Data Statistics
 General Statistics
 ------------------
 
-As of 01/01/2022:
+As of 01/02/2022:
 
-Total Number of tweets: **2,505,349,682**
+Total Number of tweets: **2,509,277,169**
 
-Average daily number of tweets: **146,313**
+Average daily number of tweets: **146,607**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1245,25 +1245,25 @@ Max No. Likes
 1
 </td>
 <td style="text-align:left;">
-48,681
+49,932
 </td>
 <td style="text-align:left;">
-107,768
+112,471
 </td>
 <td style="text-align:left;">
-156,518
+163,863
 </td>
 <td style="text-align:left;">
-1,093,516
+2,258,255
 </td>
 <td style="text-align:left;">
-2,448,920
+5,211,668
 </td>
 <td style="text-align:left;">
-3,542,436
+7,469,923
 </td>
 <td style="text-align:left;">
-551
+1,076
 </td>
 <td style="text-align:left;">
 637,234
@@ -1277,7 +1277,7 @@ Max No. Likes
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 6,648,627 tweets with geolocation information, which
+There is a total of 6,649,152 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1308,7 +1308,7 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-1,622,548,144
+1,625,032,713
 </td>
 <td style="text-align:right;">
 64.92
@@ -1319,7 +1319,7 @@ English
 Spanish; Castilian
 </td>
 <td style="text-align:left;">
-297,506,745
+297,914,342
 </td>
 <td style="text-align:right;">
 11.90
@@ -1330,7 +1330,7 @@ Spanish; Castilian
 Portuguese
 </td>
 <td style="text-align:left;">
-104,441,240
+104,535,930
 </td>
 <td style="text-align:right;">
 4.18
@@ -1341,10 +1341,10 @@ Portuguese
 French
 </td>
 <td style="text-align:left;">
-81,721,470
+82,027,179
 </td>
 <td style="text-align:right;">
-3.27
+3.28
 </td>
 </tr>
 <tr>
@@ -1352,7 +1352,7 @@ French
 Bahasa
 </td>
 <td style="text-align:left;">
-74,487,603
+74,537,309
 </td>
 <td style="text-align:right;">
 2.98
@@ -1363,7 +1363,7 @@ Bahasa
 Others
 </td>
 <td style="text-align:left;">
-318,624,084
+319,209,300
 </td>
 <td style="text-align:right;">
 12.75
