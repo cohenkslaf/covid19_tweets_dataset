@@ -1947,6 +1947,11 @@ Twitter Dataset for Studying the COVID-19 Infodemic. DOI:
 References
 ==========
 
+Lopez, C. E., Gallemore, C., “An Augmented Multilingual Twitter dataset
+for studying the COVID-19 infodemic” Soc. Netw. Anal. Min. 11, 102
+(2021). DOI: s13278-021-00825-0
+<a href="https://pubmed.ncbi.nlm.nih.gov/34697560/" class="uri">https://pubmed.ncbi.nlm.nih.gov/34697560/</a>
+
 <a name="chen"></a> Emily Chen, Kristina Lerman, and Emilio Ferrara.
 2020. \#COVID-19: The First Public Coronavirus Twitter Dataset.
 arXiv:cs.SI/2003.07372, 2020
