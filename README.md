@@ -43,15 +43,15 @@ selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
 supplement the dataset by hydrating non-duplicated tweets. These tweets
 are just a sample of all the tweets generated that are provided by
-Twitter, and it does not represent the whole population of tweets at any
-given point.
+Twitter, and it might not represent the whole population of tweets at
+any given point.
 
 **Citation**
 
-Christian Lopez, and Caleb Gallemore (2020) An Augmented Multilingual
-Twitter Dataset for Studying the COVID-19 Infodemic. DOI:
-10.21203/rs.3.rs-95721/v1
-<a href="https://www.researchsquare.com/article/rs-95721/v1" class="uri">https://www.researchsquare.com/article/rs-95721/v1</a>
+Lopez, C. E., Gallemore, C., “An Augmented Multilingual Twitter dataset
+for studying the COVID-19 infodemic” Soc. Netw. Anal. Min. 11, 102
+(2021). DOI: s13278-021-00825-0
+<a href="https://pubmed.ncbi.nlm.nih.gov/34697560/" class="uri">https://pubmed.ncbi.nlm.nih.gov/34697560/</a>
 
 Data Organization
 -----------------
