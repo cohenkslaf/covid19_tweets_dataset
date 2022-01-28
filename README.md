@@ -57,7 +57,7 @@ Data Organization
 -----------------
 
 The dataset is organized by hour (UTC) , month, and by tables. The
-description of all the features in all five tables is provided below.
+description of all the features in all seven tables is provided below.
 For example, the path
 “./Summary\_Details/2020\_01/2020\_01\_22\_00\_Summary\_Details.csv”
 contains all the summary details of the tweets collection on January
