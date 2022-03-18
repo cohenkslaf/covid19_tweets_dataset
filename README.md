@@ -1484,16 +1484,16 @@ covid
 133,740,215
 </td>
 <td style="text-align:left;">
-15,339,939
+15,389,543
 </td>
 <td style="text-align:left;">
-13,958,337
+13,923,561
 </td>
 <td style="text-align:left;">
-14,878,514
+14,920,501
 </td>
 <td style="text-align:left;">
-23,683,782
+23,732,085
 </td>
 </tr>
 <tr>
@@ -1524,16 +1524,16 @@ covid-19
 44,549,515
 </td>
 <td style="text-align:left;">
-10,051,819
+10,007,479
 </td>
 <td style="text-align:left;">
 10,745,130
 </td>
 <td style="text-align:left;">
-12,362,728
+12,383,674
 </td>
 <td style="text-align:left;">
-18,308,574
+18,267,689
 </td>
 </tr>
 <tr>
@@ -1567,13 +1567,13 @@ americans
 3,684,592
 </td>
 <td style="text-align:left;">
-9,358,252
+9,360,154
 </td>
 <td style="text-align:left;">
-4,991,426
+5,007,206
 </td>
 <td style="text-align:left;">
-5,431,992
+5,396,486
 </td>
 </tr>
 <tr>
@@ -1607,13 +1607,13 @@ covid19
 3,256,285
 </td>
 <td style="text-align:left;">
-6,591,997
+6,620,183
 </td>
 <td style="text-align:left;">
-4,107,912
+4,083,993
 </td>
 <td style="text-align:left;">
-5,383,897
+5,391,158
 </td>
 </tr>
 <tr>
@@ -1644,7 +1644,7 @@ omicron
 2,905,445
 </td>
 <td style="text-align:left;">
-1,234,965
+1,281,101
 </td>
 <td style="text-align:left;">
 4,142,125
@@ -1653,7 +1653,7 @@ omicron
 1,989,391
 </td>
 <td style="text-align:left;">
-2,016,349
+2,024,362
 </td>
 </tr>
 </tbody>
