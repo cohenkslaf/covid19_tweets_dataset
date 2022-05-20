@@ -37,7 +37,7 @@ This repo only contatins the data and statistics for 2022.For the data of:
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 04/09/2022 there were a total of **2,758,499,893** tweets
+As of 04/30/2022 there were a total of **2,791,526,395** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -349,11 +349,11 @@ Data Statistics
 General Statistics
 ------------------
 
-As of 04/09/2022:
+As of 04/30/2022:
 
-Total Number of tweets: **2,758,499,893**
+Total Number of tweets: **2,791,526,395**
 
-Average daily number of tweets: **139,368**
+Average daily number of tweets: **139,403**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1350,28 +1350,28 @@ Max No. Likes
 4
 </td>
 <td style="text-align:left;">
-20,385
+20,565
 </td>
 <td style="text-align:left;">
-39,829
+40,382
 </td>
 <td style="text-align:left;">
-59,441
+60,409
 </td>
 <td style="text-align:left;">
-4,643,034
+15,705,817
 </td>
 <td style="text-align:left;">
-8,925,218
+30,888,937
 </td>
 <td style="text-align:left;">
-13,568,252
+46,594,754
 </td>
 <td style="text-align:left;">
-2,731
+9,121
 </td>
 <td style="text-align:left;">
-630,472
+645,485
 </td>
 <td style="text-align:left;">
 442,909
@@ -1382,7 +1382,7 @@ Max No. Likes
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 6,694,125 tweets with geolocation information, which
+There is a total of 6,700,515 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1413,10 +1413,10 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-1,785,717,581
+1,808,626,392
 </td>
 <td style="text-align:right;">
-64.88
+64.93
 </td>
 </tr>
 <tr>
@@ -1424,10 +1424,10 @@ English
 Spanish; Castilian
 </td>
 <td style="text-align:left;">
-321,281,397
+323,642,142
 </td>
 <td style="text-align:right;">
-11.67
+11.62
 </td>
 </tr>
 <tr>
@@ -1435,10 +1435,10 @@ Spanish; Castilian
 Portuguese
 </td>
 <td style="text-align:left;">
-112,966,065
+113,616,289
 </td>
 <td style="text-align:right;">
-4.10
+4.08
 </td>
 </tr>
 <tr>
@@ -1446,10 +1446,10 @@ Portuguese
 French
 </td>
 <td style="text-align:left;">
-95,591,545
+97,252,823
 </td>
 <td style="text-align:right;">
-3.47
+3.49
 </td>
 </tr>
 <tr>
@@ -1457,10 +1457,10 @@ French
 Bahasa
 </td>
 <td style="text-align:left;">
-78,676,097
+79,149,991
 </td>
 <td style="text-align:right;">
-2.86
+2.84
 </td>
 </tr>
 <tr>
@@ -1468,10 +1468,10 @@ Bahasa
 Others
 </td>
 <td style="text-align:left;">
-358,246,812
+363,218,362
 </td>
 <td style="text-align:right;">
-13.02
+13.04
 </td>
 </tr>
 </tbody>
@@ -1551,19 +1551,19 @@ covid
 14,106,218
 </td>
 <td style="text-align:left;">
-135,829,954
+136,815,606
 </td>
 <td style="text-align:left;">
-15,764,559
+15,746,759
 </td>
 <td style="text-align:left;">
-13,406,462
+13,224,639
 </td>
 <td style="text-align:left;">
-14,578,754
+14,467,410
 </td>
 <td style="text-align:left;">
-23,187,986
+23,008,012
 </td>
 </tr>
 <tr>
@@ -1591,19 +1591,19 @@ covid-19
 7,159,966
 </td>
 <td style="text-align:left;">
-44,725,161
+44,813,863
 </td>
 <td style="text-align:left;">
-8,821,527
+8,808,043
 </td>
 <td style="text-align:left;">
-10,408,796
+10,155,839
 </td>
 <td style="text-align:left;">
-13,029,217
+12,981,145
 </td>
 <td style="text-align:left;">
-16,850,594
+16,477,210
 </td>
 </tr>
 <tr>
@@ -1631,19 +1631,19 @@ covid19
 4,217,090
 </td>
 <td style="text-align:left;">
-18,566,311
+18,902,805
 </td>
 <td style="text-align:left;">
-3,151,025
+3,091,841
 </td>
 <td style="text-align:left;">
-8,823,094
+8,650,658
 </td>
 <td style="text-align:left;">
-5,061,639
+5,080,298
 </td>
 <td style="text-align:left;">
-5,215,337
+5,043,080
 </td>
 </tr>
 <tr>
@@ -1674,16 +1674,16 @@ americans
 3,552,497
 </td>
 <td style="text-align:left;">
-2,975,795
+2,925,558
 </td>
 <td style="text-align:left;">
-6,919,195
+6,954,459
 </td>
 <td style="text-align:left;">
-4,329,454
+4,311,826
 </td>
 <td style="text-align:left;">
-4,823,446
+4,727,514
 </td>
 </tr>
 <tr>
@@ -1711,16 +1711,16 @@ omicron
 3,277,601
 </td>
 <td style="text-align:left;">
-2,944,104
+2,955,361
 </td>
 <td style="text-align:left;">
-1,263,410
+1,237,850
 </td>
 <td style="text-align:left;">
-3,988,314
+3,916,691
 </td>
 <td style="text-align:left;">
-2,056,682
+2,082,086
 </td>
 <td style="text-align:left;">
 2,024,362
@@ -1777,7 +1777,7 @@ NER Miscellaneous
 covid
 </td>
 <td style="text-align:left;">
-venezuela
+mÃ©xico
 </td>
 <td style="text-align:left;">
 mippcivzla
@@ -1788,16 +1788,16 @@ covid-19
 </tr>
 <tr>
 <td style="text-align:left;">
-3,288,823
+3,207,985
 </td>
 <td style="text-align:left;">
-2,284,401
+2,183,403
 </td>
 <td style="text-align:left;">
-1,646,140
+1,483,574
 </td>
 <td style="text-align:left;">
-16,229,461
+15,529,828
 </td>
 </tr>
 <tr>
@@ -1805,7 +1805,7 @@ covid-19
 nicolasmaduro
 </td>
 <td style="text-align:left;">
-mÃ©xico
+venezuela
 </td>
 <td style="text-align:left;">
 covid
@@ -1816,16 +1816,16 @@ covid
 </tr>
 <tr>
 <td style="text-align:left;">
-1,023,963
+879,600
 </td>
 <td style="text-align:left;">
-2,210,463
+2,108,131
 </td>
 <td style="text-align:left;">
-1,498,860
+1,477,169
 </td>
 <td style="text-align:left;">
-13,064,043
+12,748,675
 </td>
 </tr>
 <tr>
@@ -1844,16 +1844,16 @@ covid19
 </tr>
 <tr>
 <td style="text-align:left;">
-556,968
+485,184
 </td>
 <td style="text-align:left;">
-1,233,428
+1,224,262
 </td>
 <td style="text-align:left;">
-1,162,371
+1,032,550
 </td>
 <td style="text-align:left;">
-9,885,102
+9,585,530
 </td>
 </tr>
 <tr>
@@ -1875,13 +1875,13 @@ coronavirus
 295,256
 </td>
 <td style="text-align:left;">
-893,805
+884,068
 </td>
 <td style="text-align:left;">
-552,708
+580,448
 </td>
 <td style="text-align:left;">
-2,114,028
+2,030,416
 </td>
 </tr>
 <tr>
@@ -1900,13 +1900,13 @@ omicron
 </tr>
 <tr>
 <td style="text-align:left;">
-110,967
+115,617
 </td>
 <td style="text-align:left;">
-558,485
+544,383
 </td>
 <td style="text-align:left;">
-522,528
+524,934
 </td>
 <td style="text-align:left;">
 517,994
