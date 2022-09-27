@@ -1,43 +1,61 @@
--   [This repo only contatins the data and statistics for 2022.For the
-    data
-    of:](#this-repo-only-contatins-the-data-and-statistics-for-2022.for-the-data-of)
-    -   [- 2020 please
-        visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>](#please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2020)
-    -   [- 2021 please
-        visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2021" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2021</a>](#please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2021)
--   [Data Organization](#data-organization)
--   [Data Statistics](#data-statistics)
-    -   [General Statistics](#general-statistics)
-    -   [Language Statistics](#language-statistics)
-    -   [English Sentiment Analaysis](#english-sentiment-analaysis)
-    -   [English Named Entity Recognition, Mentions, and
-        Hashtags](#english-named-entity-recognition-mentions-and-hashtags)
-    -   [Spanish Sentiment Analaysis](#spanish-sentiment-analaysis)
-    -   [Spanish Named Entity
-        Recognition](#spanish-named-entity-recognition)
-    -   [Data Collection Process
-        Inconsistencies](#data-collection-process-inconsistencies)
--   [Hydrating Tweets](#hydrating-tweets)
-    -   [Using our TWARC Notebook](#using-our-twarc-notebook)
-        -   [Using Hydrator](#using-hydrator)
-        -   [Using Twarc](#using-twarc)
--   [Inquiries & Requests](#inquiries-requests)
--   [Licensing](#licensing)
--   [References](#references)
+-   <a
+    href="#this-repo-only-contatins-the-data-and-statistics-for-2022.for-the-data-of"
+    id="toc-this-repo-only-contatins-the-data-and-statistics-for-2022.for-the-data-of">This
+    repo only contatins the data and statistics for 2022.For the data
+    of:</a>
+    -   <a
+        href="#please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2020"
+        id="toc-please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2020">-
+        2020 please
+        visit:<span>https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</span></a>
+    -   <a
+        href="#please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2021"
+        id="toc-please-visithttpsgithub.comlopezbeccovid19_tweets_dataset_2021">-
+        2021 please
+        visit:<span>https://github.com/lopezbec/COVID19_Tweets_Dataset_2021</span></a>
+-   <a href="#data-organization" id="toc-data-organization">Data
+    Organization</a>
+-   <a href="#data-statistics" id="toc-data-statistics">Data Statistics</a>
+    -   <a href="#general-statistics" id="toc-general-statistics">General
+        Statistics</a>
+    -   <a href="#language-statistics" id="toc-language-statistics">Language
+        Statistics</a>
+    -   <a href="#english-sentiment-analaysis"
+        id="toc-english-sentiment-analaysis">English Sentiment Analaysis</a>
+    -   <a href="#english-named-entity-recognition-mentions-and-hashtags"
+        id="toc-english-named-entity-recognition-mentions-and-hashtags">English
+        Named Entity Recognition, Mentions, and Hashtags</a>
+    -   <a href="#spanish-sentiment-analaysis"
+        id="toc-spanish-sentiment-analaysis">Spanish Sentiment Analaysis</a>
+    -   <a href="#spanish-named-entity-recognition"
+        id="toc-spanish-named-entity-recognition">Spanish Named Entity
+        Recognition</a>
+    -   <a href="#data-collection-process-inconsistencies"
+        id="toc-data-collection-process-inconsistencies">Data Collection Process
+        Inconsistencies</a>
+-   <a href="#hydrating-tweets" id="toc-hydrating-tweets">Hydrating
+    Tweets</a>
+    -   <a href="#using-our-twarc-notebook"
+        id="toc-using-our-twarc-notebook">Using our TWARC Notebook</a>
+        -   <a href="#using-hydrator" id="toc-using-hydrator">Using Hydrator</a>
+        -   <a href="#using-twarc" id="toc-using-twarc">Using Twarc</a>
+-   <a href="#inquiries-requests" id="toc-inquiries-requests">Inquiries
+    &amp; Requests</a>
+-   <a href="#licensing" id="toc-licensing">Licensing</a>
+-   <a href="#references" id="toc-references">References</a>
 
-This repo only contatins the data and statistics for 2022.For the data of:
---------------------------------------------------------------------------
+## This repo only contatins the data and statistics for 2022.For the data of:
 
-### - 2020 please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>
+### - 2020 please visit:<https://github.com/lopezbec/COVID19_Tweets_Dataset_2020>
 
-### - 2021 please visit:<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2021" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2021</a>
+### - 2021 please visit:<https://github.com/lopezbec/COVID19_Tweets_Dataset_2021>
 
 ------------------------------------------------------------------------
 
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 07/31/2022 there were a total of **2,887,210,652** tweets
+As of 08/31/2022 there were a total of **2,902,265,179** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -51,17 +69,16 @@ any given point.
 Lopez, C. E., Gallemore, C., “An Augmented Multilingual Twitter dataset
 for studying the COVID-19 infodemic” Soc. Netw. Anal. Min. 11, 102
 (2021). DOI: s13278-021-00825-0
-<a href="https://pubmed.ncbi.nlm.nih.gov/34697560/" class="uri">https://pubmed.ncbi.nlm.nih.gov/34697560/</a>
+<https://pubmed.ncbi.nlm.nih.gov/34697560/>
 
-Data Organization
------------------
+## Data Organization
 
 The dataset is organized by hour (UTC) , month, and by tables. The
 description of all the features in all seven tables is provided below.
 For example, the path
-“./Summary\_Details/2020\_01/2020\_01\_22\_00\_Summary\_Details.csv”
-contains all the summary details of the tweets collection on January
-22nd at 00:00 UTC time.
+“./Summary_Details/2020_01/2020_01_22_00_Summary_Details.csv” contains
+all the summary details of the tweets collection on January 22nd at
+00:00 UTC time.
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 9px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -86,7 +103,7 @@ Description
 Primary key
 </td>
 <td style="text-align:left;">
-Tweet\_ID
+Tweet_ID
 </td>
 <td style="text-align:left;">
 Integer representation of the tweets unique identifier
@@ -94,7 +111,7 @@ Integer representation of the tweets unique identifier
 </tr>
 <tr>
 <td style="text-align:left;">
-1.Summary\_Details
+1.Summary_Details
 </td>
 <td style="text-align:left;">
 Language
@@ -108,7 +125,7 @@ machine-detected language of the Tweet text
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Geolocation\_cordinate
+Geolocation_cordinate
 </td>
 <td style="text-align:left;">
 Indicates whether or not the geographic location of the tweet was
@@ -152,15 +169,15 @@ Number of times the tweet was retweeted
 Country
 </td>
 <td style="text-align:left;">
-When present, indicates a list of uppercaseÂ two-letter country
-codesÂ from which the tweet comes
+When present, indicates a list of uppercase two-letter country
+codes from which the tweet comes
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Date\_Created
+Date_Created
 </td>
 <td style="text-align:left;">
 UTC date and time the tweet was created
@@ -168,18 +185,18 @@ UTC date and time the tweet was created
 </tr>
 <tr>
 <td style="text-align:left;">
-2.Summary\_Hastag
+2.Summary_Hastag
 </td>
 <td style="text-align:left;">
 Hashtag
 </td>
 <td style="text-align:left;">
-Hashtag (\#) present in the tweet
+Hashtag (#) present in the tweet
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-3.Summary\_Mentions
+3.Summary_Mentions
 </td>
 <td style="text-align:left;">
 Mentions
@@ -190,10 +207,10 @@ Mention (@) present in the tweet
 </tr>
 <tr>
 <td style="text-align:left;">
-4.Summary\_Sentiment
+4.Summary_Sentiment
 </td>
 <td style="text-align:left;">
-Sentiment\_Label
+Sentiment_Label
 </td>
 <td style="text-align:left;">
 Most probable tweet sentiment (neutral, positive, negative)
@@ -203,7 +220,7 @@ Most probable tweet sentiment (neutral, positive, negative)
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Logits\_Neutral
+Logits_Neutral
 </td>
 <td style="text-align:left;">
 Non-normalized prediction for neutral sentiment
@@ -213,7 +230,7 @@ Non-normalized prediction for neutral sentiment
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Logits\_Positive
+Logits_Positive
 </td>
 <td style="text-align:left;">
 Non-normalized prediction for positive sentiment
@@ -223,7 +240,7 @@ Non-normalized prediction for positive sentiment
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Logits\_Negative
+Logits_Negative
 </td>
 <td style="text-align:left;">
 Non-normalized prediction for negative sentiment
@@ -231,10 +248,10 @@ Non-normalized prediction for negative sentiment
 </tr>
 <tr>
 <td style="text-align:left;">
-5.Summary\_NER
+5.Summary_NER
 </td>
 <td style="text-align:left;">
-NER\_text
+NER_text
 </td>
 <td style="text-align:left;">
 Text stating a named entity recognized by the NER algorithm
@@ -244,27 +261,27 @@ Text stating a named entity recognized by the NER algorithm
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Start\_Pos
+Start_Pos
 </td>
 <td style="text-align:left;">
-Initial character position within the tweet of the NER\_text
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-End\_Pos
-</td>
-<td style="text-align:left;">
-End character position within the tweet of the NER\_text
+Initial character position within the tweet of the NER_text
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-NER\_Label Prob
+End_Pos
+</td>
+<td style="text-align:left;">
+End character position within the tweet of the NER_text
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+NER_Label Prob
 </td>
 <td style="text-align:left;">
 Label and probability of the named entity recognized by the NER
@@ -273,10 +290,10 @@ algorithm
 </tr>
 <tr>
 <td style="text-align:left;">
-6.Summary\_Sentiment\_ES
+6.Summary_Sentiment_ES
 </td>
 <td style="text-align:left;">
-Sentiment\_Label
+Sentiment_Label
 </td>
 <td style="text-align:left;">
 Most probable tweet sentiment (neutral, positive, negative)
@@ -286,7 +303,7 @@ Most probable tweet sentiment (neutral, positive, negative)
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Probability\_pos
+Probability_pos
 </td>
 <td style="text-align:left;">
 Probability of the tweets sentiment being positive (\<=0.33 is negative,
@@ -295,10 +312,10 @@ Probability of the tweets sentiment being positive (\<=0.33 is negative,
 </tr>
 <tr>
 <td style="text-align:left;">
-7.Summary\_NER\_ES
+7.Summary_NER_ES
 </td>
 <td style="text-align:left;">
-NER\_text
+NER_text
 </td>
 <td style="text-align:left;">
 Text stating a named entity recognized by the NER algorithm
@@ -308,27 +325,27 @@ Text stating a named entity recognized by the NER algorithm
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-Start\_Pos
+Start_Pos
 </td>
 <td style="text-align:left;">
-Initial character position within the tweet of the NER\_text
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-</td>
-<td style="text-align:left;">
-End\_Pos
-</td>
-<td style="text-align:left;">
-End character position within the tweet of the NER\_text
+Initial character position within the tweet of the NER_text
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-NER\_Label Prob
+End_Pos
+</td>
+<td style="text-align:left;">
+End character position within the tweet of the NER_text
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+NER_Label Prob
 </td>
 <td style="text-align:left;">
 Label and probability of the named entity recognized by the NER
@@ -343,17 +360,15 @@ API](https://developer.twitter.com/en/docs) and the [Documentation for
 API
 Tweet-object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview/tweet-object)
 
-Data Statistics
-===============
+# Data Statistics
 
-General Statistics
-------------------
+## General Statistics
 
-As of 07/31/2022:
+As of 08/31/2022:
 
-Total Number of tweets: **2,887,210,652**
+Total Number of tweets: **2,902,265,179**
 
-Average daily number of tweets: **130,046**
+Average daily number of tweets: **126,617**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1482,18 +1497,52 @@ Max No. Likes
 9,963
 </td>
 </tr>
+<tr>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+8
+</td>
+<td style="text-align:left;">
+6,982
+</td>
+<td style="text-align:left;">
+13,300
+</td>
+<td style="text-align:left;">
+20,317
+</td>
+<td style="text-align:left;">
+5,170,130
+</td>
+<td style="text-align:left;">
+9,884,397
+</td>
+<td style="text-align:left;">
+15,054,527
+</td>
+<td style="text-align:left;">
+2,283
+</td>
+<td style="text-align:left;">
+2,657,359
+</td>
+<td style="text-align:left;">
+6,701
+</td>
+</tr>
 </tbody>
 </table>
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 6,716,407 tweets with geolocation information, which
+There is a total of 6,718,690 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
 
-Language Statistics
--------------------
+## Language Statistics
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1518,10 +1567,10 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-1,874,487,241
+1,884,615,937
 </td>
 <td style="text-align:right;">
-65.06
+65.07
 </td>
 </tr>
 <tr>
@@ -1529,10 +1578,10 @@ English
 Spanish; Castilian
 </td>
 <td style="text-align:left;">
-331,179,775
+332,523,562
 </td>
 <td style="text-align:right;">
-11.49
+11.48
 </td>
 </tr>
 <tr>
@@ -1540,7 +1589,7 @@ Spanish; Castilian
 Portuguese
 </td>
 <td style="text-align:left;">
-115,928,927
+116,348,245
 </td>
 <td style="text-align:right;">
 4.02
@@ -1551,10 +1600,10 @@ Portuguese
 French
 </td>
 <td style="text-align:left;">
-102,502,809
+103,366,499
 </td>
 <td style="text-align:right;">
-3.56
+3.57
 </td>
 </tr>
 <tr>
@@ -1562,10 +1611,10 @@ French
 Bahasa
 </td>
 <td style="text-align:left;">
-80,386,280
+80,614,063
 </td>
 <td style="text-align:right;">
-2.79
+2.78
 </td>
 </tr>
 <tr>
@@ -1573,10 +1622,10 @@ Bahasa
 Others
 </td>
 <td style="text-align:left;">
-376,705,224
+378,776,477
 </td>
 <td style="text-align:right;">
-13.07
+13.08
 </td>
 </tr>
 </tbody>
@@ -1584,25 +1633,23 @@ Others
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20by%20Language%20Line%20plot.png)
 
-English Sentiment Analaysis
----------------------------
+## English Sentiment Analaysis
 
 The sentiment of all the English tweets was estimated using a
 state-or-the-art Twitter Sentiment algorithm
-[BB\_twtr](https://arxiv.org/abs/1704.06125). [(See code
+[BB_twtr](https://arxiv.org/abs/1704.06125). [(See code
 here)](https://github.com/leelaylay/TweetSemEval) .
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Sentiment/Tweets%20Sentiment.png)
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Sentiment/Tweets%20Sentiment%20Percentage.png)
 
-English Named Entity Recognition, Mentions, and Hashtags
---------------------------------------------------------
+## English Named Entity Recognition, Mentions, and Hashtags
 
 The Named Entity Recognition algorithm of
 [flairNLP](https://github.com/flairNLP/flair) was used to extract topics
 of conversation about PERSON, LOCATION, ORGANIZATION, and others. Below
-are the top 5 NER, Mentions (@) and Hastags (\#)
+are the top 5 NER, Mentions (@) and Hastags (#)
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1636,7 +1683,7 @@ NER Miscellaneous
 @realDonaldTrump
 </td>
 <td style="text-align:left;">
-\#covid19
+#covid19
 </td>
 <td style="text-align:left;">
 covid
@@ -1656,7 +1703,7 @@ covid
 14,106,218
 </td>
 <td style="text-align:left;">
-139,226,343
+139,442,424
 </td>
 <td style="text-align:left;">
 15,171,663
@@ -1676,7 +1723,7 @@ covid
 @realdonaldtrump
 </td>
 <td style="text-align:left;">
-\#coronavirus
+#coronavirus
 </td>
 <td style="text-align:left;">
 biden
@@ -1696,7 +1743,7 @@ covid-19
 7,159,966
 </td>
 <td style="text-align:left;">
-45,102,255
+45,164,945
 </td>
 <td style="text-align:left;">
 8,496,554
@@ -1716,7 +1763,7 @@ covid-19
 @mippcivzla
 </td>
 <td style="text-align:left;">
-\#covid
+#covid
 </td>
 <td style="text-align:left;">
 trump
@@ -1736,7 +1783,7 @@ americans
 4,223,180
 </td>
 <td style="text-align:left;">
-19,676,113
+19,814,671
 </td>
 <td style="text-align:left;">
 2,452,276
@@ -1756,7 +1803,7 @@ americans
 @joebiden
 </td>
 <td style="text-align:left;">
-\#whatshappeninginmyanmar
+#whatshappeninginmyanmar
 </td>
 <td style="text-align:left;">
 fauci
@@ -1796,7 +1843,7 @@ covid19
 @narendramodi
 </td>
 <td style="text-align:left;">
-\#omicron
+#omicron
 </td>
 <td style="text-align:left;">
 boris johnson
@@ -1834,8 +1881,7 @@ omicron
 </tbody>
 </table>
 
-Spanish Sentiment Analaysis
----------------------------
+## Spanish Sentiment Analaysis
 
 The sentiment of all the Spanish tweets was estimated using sentiment
 analysis in spanish based on neural networks model of the the python
@@ -1846,8 +1892,7 @@ library [sentiment-analysis-spanish
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Sentiment_ES/Tweets%20Sentiment%20Percentage%20ES.png)
 
-Spanish Named Entity Recognition
---------------------------------
+## Spanish Named Entity Recognition
 
 The Spanish Named Entity Recognition algorithm of
 [flairNLP](https://github.com/flairNLP/flair) was used to extract topics
@@ -1882,7 +1927,7 @@ NER Miscellaneous
 covid
 </td>
 <td style="text-align:left;">
-mÃ©xico
+méxico
 </td>
 <td style="text-align:left;">
 covid
@@ -1893,16 +1938,16 @@ covid-19
 </tr>
 <tr>
 <td style="text-align:left;">
-2,744,051
+2,672,569
 </td>
 <td style="text-align:left;">
-1,811,956
+1,719,120
 </td>
 <td style="text-align:left;">
-1,227,054
+1,203,989
 </td>
 <td style="text-align:left;">
-13,172,496
+12,984,182
 </td>
 </tr>
 <tr>
@@ -1921,16 +1966,16 @@ covid
 </tr>
 <tr>
 <td style="text-align:left;">
-756,145
+751,634
 </td>
 <td style="text-align:left;">
-1,559,210
+1,533,210
 </td>
 <td style="text-align:left;">
 1,098,727
 </td>
 <td style="text-align:left;">
-11,436,254
+11,268,787
 </td>
 </tr>
 <tr>
@@ -1938,7 +1983,7 @@ covid
 mippcivzla
 </td>
 <td style="text-align:left;">
-espaÃ±a
+españa
 </td>
 <td style="text-align:left;">
 vtvcanal8
@@ -1952,13 +1997,13 @@ covid19
 365,398
 </td>
 <td style="text-align:left;">
-1,070,584
+1,035,041
 </td>
 <td style="text-align:left;">
-909,317
+929,262
 </td>
 <td style="text-align:left;">
-8,427,894
+8,259,192
 </td>
 </tr>
 <tr>
@@ -1977,16 +2022,16 @@ coronavirus
 </tr>
 <tr>
 <td style="text-align:left;">
-269,092
+259,410
 </td>
 <td style="text-align:left;">
-830,413
+739,137
 </td>
 <td style="text-align:left;">
-883,189
+900,691
 </td>
 <td style="text-align:left;">
-1,534,767
+1,502,886
 </td>
 </tr>
 <tr>
@@ -2008,20 +2053,19 @@ protocolo
 141,562
 </td>
 <td style="text-align:left;">
-317,321
+289,455
 </td>
 <td style="text-align:left;">
-465,238
+455,630
 </td>
 <td style="text-align:left;">
-704,368
+717,493
 </td>
 </tr>
 </tbody>
 </table>
 
-Data Collection Process Inconsistencies
----------------------------------------
+## Data Collection Process Inconsistencies
 
 Only tweets in English were collected from 22 January to 31 January
 2020, after this time the algorithm collected tweets in all languages.
@@ -2085,16 +2129,14 @@ Time
 </tbody>
 </table>
 
-Hydrating Tweets
-================
+# Hydrating Tweets
 
-Using our TWARC Notebook
-------------------------
+## Using our TWARC Notebook
 
 The notebook
-[Automatically\_Hydrate\_TweetsIDs\_COVID190\_v2.ipynb](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Automatically_Hydrate_TweetsIDs_COVID19_v2.ipynb)
+[Automatically_Hydrate_TweetsIDs_COVID190_v2.ipynb](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Automatically_Hydrate_TweetsIDs_COVID19_v2.ipynb)
 will allow you to automatically hydrate the tweets-ID from our
-[COVID19\_Tweets\_dataset GitHub
+[COVID19_Tweets_dataset GitHub
 repository](https://github.com/lopezbec/COVID19_Tweets_Dataset).
 
 You can run this notebook directly on the cloud using Google Colab [(see
@@ -2124,22 +2166,19 @@ repository](https://github.com/DocNow/hydrator).
 Follow the instructions on the [Twarc github
 repository](https://github.com/DocNow/twarc).
 
-Inquiries & Requests
-====================
+# Inquiries & Requests
 
 If you would like to filter the tweets’ ID based on some metadata not
 provided on the repo (e.g., geolocation), if you would like to run some
 additional analyses on the full tweet text data (e.g., sentiment
 analysis using another language model, topic modeling, etc.), or if you
 have any questions about the dataset, please contact Dr. Christian Lopez
-at
-**<a href="mailto:lopezbec@lafayette.edu" class="email">lopezbec@lafayette.edu</a>**
+at **<lopezbec@lafayette.edu>**
 
-Existing filters performed are located in ‘Tweets\_ID\_Filter\_requests’
+Existing filters performed are located in ‘Tweets_ID_Filter_requests’
 directory
 
-Licensing
-=========
+# Licensing
 
 This dataset is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International Public License
@@ -2152,18 +2191,17 @@ and cite the following manuscript:
 Christian Lopez, and Caleb Gallemore (2020) An Augmented Multilingual
 Twitter Dataset for Studying the COVID-19 Infodemic. DOI:
 10.21203/rs.3.rs-95721/v1
-<a href="https://www.researchsquare.com/article/rs-95721/v1" class="uri">https://www.researchsquare.com/article/rs-95721/v1</a>
+<https://www.researchsquare.com/article/rs-95721/v1>
 
-References
-==========
+# References
 
 Lopez, C. E., Gallemore, C., “An Augmented Multilingual Twitter dataset
 for studying the COVID-19 infodemic” Soc. Netw. Anal. Min. 11, 102
 (2021). DOI: s13278-021-00825-0
-<a href="https://pubmed.ncbi.nlm.nih.gov/34697560/" class="uri">https://pubmed.ncbi.nlm.nih.gov/34697560/</a>
+<https://pubmed.ncbi.nlm.nih.gov/34697560/>
 
 <a name="chen"></a> Emily Chen, Kristina Lerman, and Emilio Ferrara.
-2020. \#COVID-19: The First Public Coronavirus Twitter Dataset.
+2020. #COVID-19: The First Public Coronavirus Twitter Dataset.
 arXiv:cs.SI/2003.07372, 2020
 
-<a href="https://github.com/echen102/COVID-19-TweetIDs" class="uri">https://github.com/echen102/COVID-19-TweetIDs</a>
+<https://github.com/echen102/COVID-19-TweetIDs>
