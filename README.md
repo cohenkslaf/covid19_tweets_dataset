@@ -55,7 +55,7 @@
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 09/30/2022 there were a total of **2,933,550,572** tweets
+As of 10/31/2022 there were a total of **2,961,739,084** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -364,11 +364,11 @@ Tweet-object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictiona
 
 ## General Statistics
 
-As of 09/30/2022:
+As of 10/31/2022:
 
-Total Number of tweets: **2,933,550,572**
+Total Number of tweets: **2,961,739,084**
 
-Average daily number of tweets: **124,057**
+Average daily number of tweets: **121,518**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1567,12 +1567,47 @@ Max No. Likes
 187,492
 </td>
 </tr>
+<tr>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+12,081
+</td>
+<td style="text-align:left;">
+25,951
+</td>
+<td style="text-align:left;">
+37,754
+</td>
+<td style="text-align:left;">
+8,963,432
+</td>
+<td style="text-align:left;">
+19,225,080
+</td>
+<td style="text-align:left;">
+28,188,512
+</td>
+<td style="text-align:left;">
+2,377
+</td>
+<td style="text-align:left;">
+2,654,137
+</td>
+<td style="text-align:left;">
+250,761
+</td>
+</tr>
 </tbody>
 </table>
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 6,722,392 tweets with geolocation information, which
+There is a total of 6,724,769 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1602,54 +1637,54 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-1,905,337,279
+58
 </td>
 <td style="text-align:right;">
-65.08
+66.67
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-Spanish; Castilian
+Japanese
 </td>
 <td style="text-align:left;">
-335,289,674
+11
 </td>
 <td style="text-align:right;">
-11.45
+12.64
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-Portuguese
+Tagalog
 </td>
 <td style="text-align:left;">
-117,209,689
+5
 </td>
 <td style="text-align:right;">
-4.00
+5.75
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-French
+Other
 </td>
 <td style="text-align:left;">
-104,903,200
+5
 </td>
 <td style="text-align:right;">
-3.58
+5.75
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-Bahasa
+Chinese
 </td>
 <td style="text-align:left;">
-80,946,197
+2
 </td>
 <td style="text-align:right;">
-2.76
+2.30
 </td>
 </tr>
 <tr>
@@ -1657,10 +1692,10 @@ Bahasa
 Others
 </td>
 <td style="text-align:left;">
-383,844,137
+6
 </td>
 <td style="text-align:right;">
-13.11
+6.90
 </td>
 </tr>
 </tbody>
@@ -1738,7 +1773,7 @@ covid
 14,106,218
 </td>
 <td style="text-align:left;">
-140,185,356
+140,682,023
 </td>
 <td style="text-align:left;">
 13,132,573
@@ -1778,7 +1813,7 @@ covid-19
 7,159,966
 </td>
 <td style="text-align:left;">
-45,179,007
+45,193,455
 </td>
 <td style="text-align:left;">
 7,421,838
@@ -1818,7 +1853,7 @@ americans
 4,235,021
 </td>
 <td style="text-align:left;">
-20,083,336
+20,361,432
 </td>
 <td style="text-align:left;">
 1,866,763
@@ -2159,6 +2194,174 @@ Time
 </td>
 <td style="text-align:left;">
 16:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+00:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+01:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+02:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+03:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+05:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+07:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+08:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+10:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+11:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-29
+</td>
+<td style="text-align:left;">
+19:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+00:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+03:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+04:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+05:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+06:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+07:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+08:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+09:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+12:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+13:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-10-30
+</td>
+<td style="text-align:left;">
+23:00 UTC
 </td>
 </tr>
 </tbody>
