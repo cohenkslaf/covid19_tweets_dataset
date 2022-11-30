@@ -1603,10 +1603,17 @@ English
 </td>
 <td style="text-align:left;">
 <<<<<<< HEAD
+<<<<<<< HEAD
 458,727
 </td>
 <td style="text-align:right;">
 67.75
+=======
+1,905,337,279
+</td>
+<td style="text-align:right;">
+65.08
+>>>>>>> parent of 561d28d26 (Update README.md)
 =======
 1,905,337,279
 </td>
@@ -1621,10 +1628,17 @@ Spanish; Castilian
 </td>
 <td style="text-align:left;">
 <<<<<<< HEAD
+<<<<<<< HEAD
 50,106
 </td>
 <td style="text-align:right;">
 7.40
+=======
+335,289,674
+</td>
+<td style="text-align:right;">
+11.45
+>>>>>>> parent of 561d28d26 (Update README.md)
 =======
 335,289,674
 </td>
@@ -1639,10 +1653,17 @@ Portuguese
 </td>
 <td style="text-align:left;">
 <<<<<<< HEAD
+<<<<<<< HEAD
 41,302
 </td>
 <td style="text-align:right;">
 6.10
+=======
+117,209,689
+</td>
+<td style="text-align:right;">
+4.00
+>>>>>>> parent of 561d28d26 (Update README.md)
 =======
 117,209,689
 </td>
@@ -1657,6 +1678,7 @@ French
 </td>
 <td style="text-align:left;">
 <<<<<<< HEAD
+<<<<<<< HEAD
 40,448
 </td>
 <td style="text-align:right;">
@@ -1667,10 +1689,17 @@ French
 <td style="text-align:right;">
 3.58
 >>>>>>> parent of 561d28d26 (Update README.md)
+=======
+104,903,200
+</td>
+<td style="text-align:right;">
+3.58
+>>>>>>> parent of 561d28d26 (Update README.md)
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
+<<<<<<< HEAD
 <<<<<<< HEAD
 Italian
 </td>
@@ -1688,6 +1717,15 @@ Bahasa
 <td style="text-align:right;">
 2.76
 >>>>>>> parent of 561d28d26 (Update README.md)
+=======
+Bahasa
+</td>
+<td style="text-align:left;">
+80,946,197
+</td>
+<td style="text-align:right;">
+2.76
+>>>>>>> parent of 561d28d26 (Update README.md)
 </td>
 </tr>
 <tr>
@@ -1696,10 +1734,17 @@ Others
 </td>
 <td style="text-align:left;">
 <<<<<<< HEAD
+<<<<<<< HEAD
 66,229
 </td>
 <td style="text-align:right;">
 9.78
+=======
+383,844,137
+</td>
+<td style="text-align:right;">
+13.11
+>>>>>>> parent of 561d28d26 (Update README.md)
 =======
 383,844,137
 </td>
@@ -3071,6 +3116,7 @@ Time
 </td>
 </tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <tr>
 <td style="text-align:left;">
 2021-05-06
@@ -3511,6 +3557,8 @@ Time
 23:00 UTC
 </td>
 </tr>
+=======
+>>>>>>> parent of 561d28d26 (Update README.md)
 =======
 >>>>>>> parent of 561d28d26 (Update README.md)
 </tbody>
