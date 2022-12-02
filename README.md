@@ -55,7 +55,7 @@
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 09/30/2022 there were a total of **2,933,550,572** tweets
+As of 10/31/2022 there were a total of **2,962,281,533** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -364,11 +364,11 @@ Tweet-object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictiona
 
 ## General Statistics
 
-As of 09/30/2022:
+As of 10/31/2022:
 
-Total Number of tweets: **2,933,550,572**
+Total Number of tweets: **2,962,281,533**
 
-Average daily number of tweets: **124,057**
+Average daily number of tweets: **121,505**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1567,12 +1567,47 @@ Max No. Likes
 187,492
 </td>
 </tr>
+<tr>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+10
+</td>
+<td style="text-align:left;">
+11,966
+</td>
+<td style="text-align:left;">
+25,720
+</td>
+<td style="text-align:left;">
+37,289
+</td>
+<td style="text-align:left;">
+9,105,739
+</td>
+<td style="text-align:left;">
+19,625,222
+</td>
+<td style="text-align:left;">
+28,730,961
+</td>
+<td style="text-align:left;">
+2,418
+</td>
+<td style="text-align:left;">
+2,654,137
+</td>
+<td style="text-align:left;">
+272,724
+</td>
+</tr>
 </tbody>
 </table>
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 6,722,392 tweets with geolocation information, which
+There is a total of 6,724,810 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1602,49 +1637,10 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-<<<<<<< HEAD
-<<<<<<< HEAD
-458,727
+746,216
 </td>
 <td style="text-align:right;">
-67.75
-=======
-1,905,337,279
-</td>
-<td style="text-align:right;">
-65.08
->>>>>>> parent of 561d28d26 (Update README.md)
-=======
-1,905,337,279
-</td>
-<td style="text-align:right;">
-65.08
->>>>>>> parent of 561d28d26 (Update README.md)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Spanish; Castilian
-</td>
-<td style="text-align:left;">
-<<<<<<< HEAD
-<<<<<<< HEAD
-50,106
-</td>
-<td style="text-align:right;">
-7.40
-=======
-335,289,674
-</td>
-<td style="text-align:right;">
-11.45
->>>>>>> parent of 561d28d26 (Update README.md)
-=======
-335,289,674
-</td>
-<td style="text-align:right;">
-11.45
->>>>>>> parent of 561d28d26 (Update README.md)
+61.19
 </td>
 </tr>
 <tr>
@@ -1652,24 +1648,21 @@ Spanish; Castilian
 Portuguese
 </td>
 <td style="text-align:left;">
-<<<<<<< HEAD
-<<<<<<< HEAD
-41,302
+137,436
 </td>
 <td style="text-align:right;">
-6.10
-=======
-117,209,689
+11.27
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Spanish; Castilian
+</td>
+<td style="text-align:left;">
+80,019
 </td>
 <td style="text-align:right;">
-4.00
->>>>>>> parent of 561d28d26 (Update README.md)
-=======
-117,209,689
-</td>
-<td style="text-align:right;">
-4.00
->>>>>>> parent of 561d28d26 (Update README.md)
+6.56
 </td>
 </tr>
 <tr>
@@ -1677,55 +1670,21 @@ Portuguese
 French
 </td>
 <td style="text-align:left;">
-<<<<<<< HEAD
-<<<<<<< HEAD
-40,448
+79,500
 </td>
 <td style="text-align:right;">
-5.97
-=======
-104,903,200
-</td>
-<td style="text-align:right;">
-3.58
->>>>>>> parent of 561d28d26 (Update README.md)
-=======
-104,903,200
-</td>
-<td style="text-align:right;">
-3.58
->>>>>>> parent of 561d28d26 (Update README.md)
+6.52
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-<<<<<<< HEAD
-<<<<<<< HEAD
 Italian
 </td>
 <td style="text-align:left;">
-20,239
+35,978
 </td>
 <td style="text-align:right;">
-2.99
-=======
-Bahasa
-</td>
-<td style="text-align:left;">
-80,946,197
-</td>
-<td style="text-align:right;">
-2.76
->>>>>>> parent of 561d28d26 (Update README.md)
-=======
-Bahasa
-</td>
-<td style="text-align:left;">
-80,946,197
-</td>
-<td style="text-align:right;">
-2.76
->>>>>>> parent of 561d28d26 (Update README.md)
+2.95
 </td>
 </tr>
 <tr>
@@ -1733,24 +1692,10 @@ Bahasa
 Others
 </td>
 <td style="text-align:left;">
-<<<<<<< HEAD
-<<<<<<< HEAD
-66,229
+140,419
 </td>
 <td style="text-align:right;">
-9.78
-=======
-383,844,137
-</td>
-<td style="text-align:right;">
-13.11
->>>>>>> parent of 561d28d26 (Update README.md)
-=======
-383,844,137
-</td>
-<td style="text-align:right;">
-13.11
->>>>>>> parent of 561d28d26 (Update README.md)
+11.51
 </td>
 </tr>
 </tbody>
@@ -1828,7 +1773,7 @@ covid
 14,106,218
 </td>
 <td style="text-align:left;">
-140,185,356
+140,692,472
 </td>
 <td style="text-align:left;">
 12,761,659
@@ -1868,7 +1813,7 @@ covid-19
 7,159,966
 </td>
 <td style="text-align:left;">
-45,179,007
+45,193,951
 </td>
 <td style="text-align:left;">
 7,277,679
@@ -1908,7 +1853,7 @@ americans
 4,235,021
 </td>
 <td style="text-align:left;">
-20,083,336
+20,367,303
 </td>
 <td style="text-align:left;">
 1,894,895
@@ -3115,8 +3060,6 @@ Time
 16:00 UTC
 </td>
 </tr>
-<<<<<<< HEAD
-<<<<<<< HEAD
 <tr>
 <td style="text-align:left;">
 2021-05-06
@@ -3173,394 +3116,6 @@ Time
 23:00 UTC
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-00:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-01:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-02:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-03:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-04:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-05:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-06:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-07:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-08:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-09:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-10:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-11:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-12:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-13:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-14:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-15:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-16:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-17:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-18:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-19:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-20:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-21:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-22:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-29
-</td>
-<td style="text-align:left;">
-23:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-00:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-01:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-02:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-03:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-04:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-05:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-06:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-07:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-08:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-09:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-10:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-11:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-12:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-13:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-14:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-15:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-16:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-17:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-18:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-19:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-20:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-21:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-22:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2022-10-30
-</td>
-<td style="text-align:left;">
-23:00 UTC
-</td>
-</tr>
-=======
->>>>>>> parent of 561d28d26 (Update README.md)
-=======
->>>>>>> parent of 561d28d26 (Update README.md)
 </tbody>
 </table>
 
