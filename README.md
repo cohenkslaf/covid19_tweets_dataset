@@ -55,7 +55,7 @@
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 10/31/2022 there were a total of **2,962,281,533** tweets
+As of 10/31/2022 there were a total of **2,971,987,361** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -366,9 +366,9 @@ Tweet-object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictiona
 
 As of 10/31/2022:
 
-Total Number of tweets: **2,962,281,533**
+Total Number of tweets: **2,971,987,361**
 
-Average daily number of tweets: **121,505**
+Average daily number of tweets: **121,399**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -534,16 +534,16 @@ Max No. Likes
 119,859
 </td>
 <td style="text-align:left;">
-20,591,357
+20,594,379
 </td>
 <td style="text-align:left;">
-60,301,889
+60,311,559
 </td>
 <td style="text-align:left;">
-80,893,244
+80,905,936
 </td>
 <td style="text-align:left;">
-38,213
+38,220
 </td>
 <td style="text-align:left;">
 649,823
@@ -563,22 +563,22 @@ Max No. Likes
 35,163
 </td>
 <td style="text-align:left;">
-99,928
+100,022
 </td>
 <td style="text-align:left;">
 135,709
 </td>
 <td style="text-align:left;">
-26,258,213
+26,307,406
 </td>
 <td style="text-align:left;">
-73,618,083
+73,792,461
 </td>
 <td style="text-align:left;">
-99,876,289
+100,099,863
 </td>
 <td style="text-align:left;">
-47,684
+47,777
 </td>
 <td style="text-align:left;">
 1,007,616
@@ -651,10 +651,10 @@ Max No. Likes
 56,808
 </td>
 <td style="text-align:left;">
-615,768
+9,998
 </td>
 <td style="text-align:left;">
-1,287,117
+99,846
 </td>
 </tr>
 <tr>
@@ -668,22 +668,22 @@ Max No. Likes
 51,330
 </td>
 <td style="text-align:left;">
-143,291
+143,551
 </td>
 <td style="text-align:left;">
-195,037
+195,142
 </td>
 <td style="text-align:left;">
-37,549,475
+37,596,182
 </td>
 <td style="text-align:left;">
-102,834,375
+103,098,588
 </td>
 <td style="text-align:left;">
-140,383,850
+140,694,770
 </td>
 <td style="text-align:left;">
-55,912
+55,837
 </td>
 <td style="text-align:left;">
 2,183,434
@@ -840,25 +840,25 @@ Max No. Likes
 1
 </td>
 <td style="text-align:left;">
-58,225
+58,064
 </td>
 <td style="text-align:left;">
-134,387
+134,346
 </td>
 <td style="text-align:left;">
-192,272
+191,962
 </td>
 <td style="text-align:left;">
-40,878,618
+42,074,164
 </td>
 <td style="text-align:left;">
-92,341,359
+95,252,118
 </td>
 <td style="text-align:left;">
-133,219,977
+137,326,282
 </td>
 <td style="text-align:left;">
-24,293
+25,273
 </td>
 <td style="text-align:left;">
 1,437,164
@@ -1155,25 +1155,25 @@ Max No. Likes
 10
 </td>
 <td style="text-align:left;">
-26,842
+26,441
 </td>
 <td style="text-align:left;">
-57,674
+56,615
 </td>
 <td style="text-align:left;">
-84,225
+82,723
 </td>
 <td style="text-align:left;">
-19,285,745
+19,589,093
 </td>
 <td style="text-align:left;">
-40,307,175
+41,041,351
 </td>
 <td style="text-align:left;">
-59,592,920
+60,630,444
 </td>
 <td style="text-align:left;">
-9,102
+9,172
 </td>
 <td style="text-align:left;">
 785,621
@@ -1260,25 +1260,25 @@ Max No. Likes
 1
 </td>
 <td style="text-align:left;">
-53,791
+53,236
 </td>
 <td style="text-align:left;">
-117,720
+116,837
 </td>
 <td style="text-align:left;">
-172,273
+170,493
 </td>
 <td style="text-align:left;">
-37,996,425
+38,881,931
 </td>
 <td style="text-align:left;">
-81,980,865
+83,764,485
 </td>
 <td style="text-align:left;">
-119,977,290
+122,646,416
 </td>
 <td style="text-align:left;">
-19,277
+19,991
 </td>
 <td style="text-align:left;">
 1,131,399
@@ -1400,25 +1400,25 @@ Max No. Likes
 5
 </td>
 <td style="text-align:left;">
-19,266
+19,188
 </td>
 <td style="text-align:left;">
-37,016
+36,913
 </td>
 <td style="text-align:left;">
-56,382
+56,270
 </td>
 <td style="text-align:left;">
-14,420,189
+14,903,482
 </td>
 <td style="text-align:left;">
-28,106,713
+28,969,107
 </td>
 <td style="text-align:left;">
-42,526,902
+43,872,589
 </td>
 <td style="text-align:left;">
-7,381
+7,542
 </td>
 <td style="text-align:left;">
 705,210
@@ -1607,7 +1607,7 @@ Max No. Likes
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 6,724,810 tweets with geolocation information, which
+There is a total of 6,726,760 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1637,21 +1637,10 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-746,216
+1,930,709,195
 </td>
 <td style="text-align:right;">
-61.19
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Portuguese
-</td>
-<td style="text-align:left;">
-137,436
-</td>
-<td style="text-align:right;">
-11.27
+65.10
 </td>
 </tr>
 <tr>
@@ -1659,10 +1648,21 @@ Portuguese
 Spanish; Castilian
 </td>
 <td style="text-align:left;">
-80,019
+338,643,840
 </td>
 <td style="text-align:right;">
-6.56
+11.42
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Portuguese
+</td>
+<td style="text-align:left;">
+118,962,233
+</td>
+<td style="text-align:right;">
+4.01
 </td>
 </tr>
 <tr>
@@ -1670,21 +1670,21 @@ Spanish; Castilian
 French
 </td>
 <td style="text-align:left;">
-79,500
+106,927,425
 </td>
 <td style="text-align:right;">
-6.52
+3.61
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-Italian
+Bahasa
 </td>
 <td style="text-align:left;">
-35,978
+81,453,126
 </td>
 <td style="text-align:right;">
-2.95
+2.75
 </td>
 </tr>
 <tr>
@@ -1692,10 +1692,10 @@ Italian
 Others
 </td>
 <td style="text-align:left;">
-140,419
+389,271,149
 </td>
 <td style="text-align:right;">
-11.51
+13.12
 </td>
 </tr>
 </tbody>
@@ -2161,247 +2161,7 @@ Time
 2020-08-06
 </td>
 <td style="text-align:left;">
-00:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-01:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-02:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-03:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-04:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-05:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-06:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
 07:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-08:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-09:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-10:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-11:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-12:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-13:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-14:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-15:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-16:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-17:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-18:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-19:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-20:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-21:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-22:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-06
-</td>
-<td style="text-align:left;">
-23:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-00:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-01:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-02:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-03:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-04:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-05:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-06:00 UTC
 </td>
 </tr>
 <tr>
@@ -2414,378 +2174,10 @@ Time
 </tr>
 <tr>
 <td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-08:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-09:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-10:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-11:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-12:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-13:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-14:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-15:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-16:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-17:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-18:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-19:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-20:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-21:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-22:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-08
-</td>
-<td style="text-align:left;">
-23:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-00:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-01:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-02:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-03:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-04:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-05:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-06:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 2020-08-09
 </td>
 <td style="text-align:left;">
 07:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-08:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-09:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-10:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-11:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-12:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-13:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-14:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-15:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-16:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-17:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-18:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-19:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-20:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-21:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-22:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-09
-</td>
-<td style="text-align:left;">
-23:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-00:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-01:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-02:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-03:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-04:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-05:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-06:00 UTC
 </td>
 </tr>
 <tr>
@@ -2798,322 +2190,10 @@ Time
 </tr>
 <tr>
 <td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-08:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-09:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-10:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-11:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-12:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-13:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-14:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-15:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-16:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-17:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-18:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-19:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-20:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-21:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-22:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2020-08-14
-</td>
-<td style="text-align:left;">
-23:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-00:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-01:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-02:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-03:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-04:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-05:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-06:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-07:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-08:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-09:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-10:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-11:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-12:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-13:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-14:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-15:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 2021-05-06
 </td>
 <td style="text-align:left;">
 16:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-17:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-18:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-19:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-20:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-21:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-22:00 UTC
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021-05-06
-</td>
-<td style="text-align:left;">
-23:00 UTC
 </td>
 </tr>
 </tbody>
