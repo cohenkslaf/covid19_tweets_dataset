@@ -1808,7 +1808,7 @@ covid
 14,106,218
 </td>
 <td style="text-align:left;">
-140,692,472
+140,997,843
 </td>
 <td style="text-align:left;">
 12,761,659
@@ -1848,7 +1848,7 @@ covid-19
 7,159,966
 </td>
 <td style="text-align:left;">
-45,193,951
+45,205,353
 </td>
 <td style="text-align:left;">
 7,277,679
@@ -1888,7 +1888,7 @@ americans
 4,235,021
 </td>
 <td style="text-align:left;">
-20,367,303
+20,551,809
 </td>
 <td style="text-align:left;">
 1,894,895
