@@ -368,7 +368,7 @@ As of 11/30/2022:
 
 Total Number of tweets: **2,996,610,622**
 
-Average daily number of tweets: **118,850**
+Average daily number of tweets: **NA**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1637,6 +1637,41 @@ Max No. Likes
 194,306
 </td>
 </tr>
+<tr>
+<td style="text-align:right;">
+2022
+</td>
+<td style="text-align:left;">
+12
+</td>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+0
+</td>
+<td style="text-align:left;">
+NA
+</td>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
 </tbody>
 </table>
 
@@ -1808,19 +1843,19 @@ covid
 14,106,218
 </td>
 <td style="text-align:left;">
-140,997,843
+141,043,789
 </td>
 <td style="text-align:left;">
-12,761,659
+11,693,277
 </td>
 <td style="text-align:left;">
-9,157,413
+8,142,966
 </td>
 <td style="text-align:left;">
-10,859,441
+9,216,737
 </td>
 <td style="text-align:left;">
-16,980,110
+15,419,522
 </td>
 </tr>
 <tr>
@@ -1834,7 +1869,7 @@ covid
 biden
 </td>
 <td style="text-align:left;">
-uk
+covid
 </td>
 <td style="text-align:left;">
 covid
@@ -1848,19 +1883,19 @@ covid-19
 7,159,966
 </td>
 <td style="text-align:left;">
-45,205,353
+45,238,657
 </td>
 <td style="text-align:left;">
-7,277,679
+6,326,792
 </td>
 <td style="text-align:left;">
-5,679,513
+4,735,316
 </td>
 <td style="text-align:left;">
-9,592,839
+8,720,711
 </td>
 <td style="text-align:left;">
-9,598,764
+8,559,377
 </td>
 </tr>
 <tr>
@@ -1874,7 +1909,7 @@ covid-19
 trump
 </td>
 <td style="text-align:left;">
-covid
+uk
 </td>
 <td style="text-align:left;">
 omicron
@@ -1888,19 +1923,19 @@ americans
 4,235,021
 </td>
 <td style="text-align:left;">
-20,551,809
+20,606,091
 </td>
 <td style="text-align:left;">
-1,894,895
+1,699,680
 </td>
 <td style="text-align:left;">
-5,192,070
+4,669,747
 </td>
 <td style="text-align:left;">
-5,130,790
+3,957,665
 </td>
 <td style="text-align:left;">
-3,153,998
+2,787,506
 </td>
 </tr>
 <tr>
@@ -1931,16 +1966,16 @@ covid19
 3,552,497
 </td>
 <td style="text-align:left;">
-1,682,766
+1,453,920
 </td>
 <td style="text-align:left;">
-2,697,611
+3,138,509
 </td>
 <td style="text-align:left;">
-4,294,315
+3,897,905
 </td>
 <td style="text-align:left;">
-2,117,925
+1,727,581
 </td>
 </tr>
 <tr>
@@ -1971,16 +2006,16 @@ omicron
 2,965,321
 </td>
 <td style="text-align:left;">
-1,399,592
+1,291,299
 </td>
 <td style="text-align:left;">
-2,127,866
+1,994,113
 </td>
 <td style="text-align:left;">
-1,339,553
+1,195,600
 </td>
 <td style="text-align:left;">
-2,031,056
+1,544,210
 </td>
 </tr>
 </tbody>
@@ -2035,7 +2070,7 @@ covid
 venezuela
 </td>
 <td style="text-align:left;">
-gobierno ayuso
+vtvcanal8
 </td>
 <td style="text-align:left;">
 covid-19
@@ -2043,16 +2078,16 @@ covid-19
 </tr>
 <tr>
 <td style="text-align:left;">
-2,433,288
+2,318,555
 </td>
 <td style="text-align:left;">
-1,443,441
+1,404,020
 </td>
 <td style="text-align:left;">
-1,138,750
+1,199,534
 </td>
 <td style="text-align:left;">
-11,989,099
+11,621,329
 </td>
 </tr>
 <tr>
@@ -2063,7 +2098,7 @@ nicolasmaduro
 méxico
 </td>
 <td style="text-align:left;">
-vtvcanal8
+gobierno ayuso
 </td>
 <td style="text-align:left;">
 covid
@@ -2071,16 +2106,16 @@ covid
 </tr>
 <tr>
 <td style="text-align:left;">
-711,793
+704,953
 </td>
 <td style="text-align:left;">
-1,416,462
+1,332,602
 </td>
 <td style="text-align:left;">
-1,136,428
+1,179,893
 </td>
 <td style="text-align:left;">
-10,503,347
+10,097,351
 </td>
 </tr>
 <tr>
@@ -2102,13 +2137,13 @@ covid19
 371,134
 </td>
 <td style="text-align:left;">
-922,845
+863,340
 </td>
 <td style="text-align:left;">
-1,056,393
+1,055,669
 </td>
 <td style="text-align:left;">
-7,523,307
+7,236,615
 </td>
 </tr>
 <tr>
@@ -2127,16 +2162,16 @@ coronavirus
 </tr>
 <tr>
 <td style="text-align:left;">
-222,505
+221,730
 </td>
 <td style="text-align:left;">
-544,102
+507,911
 </td>
 <td style="text-align:left;">
-1,011,897
+970,094
 </td>
 <td style="text-align:left;">
-1,330,260
+1,295,666
 </td>
 </tr>
 <tr>
@@ -2155,16 +2190,16 @@ protocolo
 </tr>
 <tr>
 <td style="text-align:left;">
-138,163
+132,677
 </td>
 <td style="text-align:left;">
-238,151
+231,933
 </td>
 <td style="text-align:left;">
-415,273
+355,599
 </td>
 <td style="text-align:left;">
-893,718
+954,161
 </td>
 </tr>
 </tbody>
