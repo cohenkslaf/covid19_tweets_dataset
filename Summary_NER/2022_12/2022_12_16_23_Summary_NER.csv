@@ -1,0 +1,4 @@
+Tweet_ID,NER_Text,Start_Pos,Eng_Pos,NER_Label,Prob
+1603890894226309129,ririka hana rona,77,93,ORG,0.7432
+1603896096941436928,ririka hana rona,77,93,ORG,0.7432
+1603896259366236160,ririka hana rona,77,93,ORG,0.7432
