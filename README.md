@@ -55,7 +55,7 @@
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
 
-As of 11/30/2022 there were a total of **2,996,610,622** tweets
+As of 12/31/2022 there were a total of **3,001,855,651** tweets
 collected. The tweets are collected using Twitter’s trending topics and
 selected keywords. Moreover, the tweets from [Chen et
 al. (2020)](https://github.com/echen102/COVID-19-TweetIDs) was used to
@@ -364,11 +364,11 @@ Tweet-object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictiona
 
 ## General Statistics
 
-As of 11/30/2022:
+As of 12/31/2022:
 
-Total Number of tweets: **2,996,610,622**
+Total Number of tweets: **3,001,855,651**
 
-Average daily number of tweets: **NA**
+Average daily number of tweets: **115,932**
 
 <table class="table table" style="margin-left: auto; margin-right: auto; font-size: 12px; margin-left: auto; margin-right: auto;">
 <caption style="font-size: initial !important;">
@@ -1610,25 +1610,25 @@ Max No. Likes
 11
 </td>
 <td style="text-align:left;">
-10,636
+10,692
 </td>
 <td style="text-align:left;">
-21,669
+21,852
 </td>
 <td style="text-align:left;">
-32,186
+32,450
 </td>
 <td style="text-align:left;">
-8,401,710
+8,724,117
 </td>
 <td style="text-align:left;">
-16,221,551
+16,938,680
 </td>
 <td style="text-align:left;">
-24,623,261
+25,662,797
 </td>
 <td style="text-align:left;">
-2,079
+2,178
 </td>
 <td style="text-align:left;">
 1,196,001
@@ -1645,31 +1645,31 @@ Max No. Likes
 12
 </td>
 <td style="text-align:left;">
-NA
+4,838
 </td>
 <td style="text-align:left;">
-NA
+8,690
 </td>
 <td style="text-align:left;">
-NA
+13,561
 </td>
 <td style="text-align:left;">
-0
+1,448,238
 </td>
 <td style="text-align:left;">
-0
+2,757,255
 </td>
 <td style="text-align:left;">
-0
+4,205,493
 </td>
 <td style="text-align:left;">
-0
+385
 </td>
 <td style="text-align:left;">
-NA
+671,917
 </td>
 <td style="text-align:left;">
-NA
+15,357
 </td>
 </tr>
 </tbody>
@@ -1677,7 +1677,7 @@ NA
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
-There is a total of 6,728,839 tweets with geolocation information, which
+There is a total of 6,729,323 tweets with geolocation information, which
 are shown on a map below:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
@@ -1707,10 +1707,10 @@ Percentage of Tweets
 English
 </td>
 <td style="text-align:left;">
-1,947,296,320
+1,950,942,733
 </td>
 <td style="text-align:right;">
-65.11
+65.12
 </td>
 </tr>
 <tr>
@@ -1718,7 +1718,7 @@ English
 Spanish; Castilian
 </td>
 <td style="text-align:left;">
-340,471,309
+340,863,804
 </td>
 <td style="text-align:right;">
 11.38
@@ -1729,7 +1729,7 @@ Spanish; Castilian
 Portuguese
 </td>
 <td style="text-align:left;">
-120,219,706
+120,396,199
 </td>
 <td style="text-align:right;">
 4.02
@@ -1740,7 +1740,7 @@ Portuguese
 French
 </td>
 <td style="text-align:left;">
-108,190,834
+108,450,005
 </td>
 <td style="text-align:right;">
 3.62
@@ -1751,10 +1751,10 @@ French
 Bahasa
 </td>
 <td style="text-align:left;">
-81,795,040
+81,852,108
 </td>
 <td style="text-align:right;">
-2.74
+2.73
 </td>
 </tr>
 <tr>
@@ -1762,7 +1762,7 @@ Bahasa
 Others
 </td>
 <td style="text-align:left;">
-392,617,020
+393,330,409
 </td>
 <td style="text-align:right;">
 13.13
@@ -2264,6 +2264,478 @@ Time
 </td>
 <td style="text-align:left;">
 16:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+00:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+01:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+02:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+03:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+04:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+05:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+06:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+07:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+08:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+09:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+11:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+12:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+14:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+15:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+16:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+17:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+18:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+19:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+21:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-13
+</td>
+<td style="text-align:left;">
+22:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+00:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+02:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+04:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+05:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+09:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+11:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+12:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+13:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+15:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+17:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+18:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+19:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-14
+</td>
+<td style="text-align:left;">
+23:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+00:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+01:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+02:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+04:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+05:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+06:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+07:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+08:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+09:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+11:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+12:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+13:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+18:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+19:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+20:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+21:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+22:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-15
+</td>
+<td style="text-align:left;">
+23:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-16
+</td>
+<td style="text-align:left;">
+01:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-16
+</td>
+<td style="text-align:left;">
+03:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-16
+</td>
+<td style="text-align:left;">
+04:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-16
+</td>
+<td style="text-align:left;">
+05:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-17
+</td>
+<td style="text-align:left;">
+15:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-18
+</td>
+<td style="text-align:left;">
+05:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-18
+</td>
+<td style="text-align:left;">
+22:00 UTC
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022-12-20
+</td>
+<td style="text-align:left;">
+01:00 UTC
 </td>
 </tr>
 </tbody>
