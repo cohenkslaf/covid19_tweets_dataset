@@ -360,6 +360,7 @@ API](https://developer.twitter.com/en/docs) and the [Documentation for
 API
 Tweet-object](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/overview/tweet-object)
 
+The directory `NYT_COVID_with_Reverse_Geo` contains files in which Tweets with Geolocation are mapped to specific US state and county, alongside with the accumulative number of cases and death from the [NY Time COVID-19 dataset]( https://github.com/nytimes/covid-19-data). The tweets with geolocation information were ‘reverse geocode” using [tidygeocoder]( https://jessecambon.github.io/tidygeocoder/), and [Nominatim API](https://nominatim.org/). The tweets with geocoding information that were not able to be reverse geocode to a US state and county were excluded from this data. 
 # Data Statistics
 
 ## General Statistics
