@@ -1,27 +1,27 @@
 "","date","county","state","cases","deaths","Tweet_count"
 "1","2020-01-21","snohomish","washington",1,0,0
-"2","2020-01-22","district of columbia","district of columbia",0,0,1
+"2","2020-01-22","districtof columbia","district of columbia",0,0,1
 "3","2020-01-22","dekalb","georgia",0,0,2
 "4","2020-01-22","suffolk","massachusetts",0,0,1
 "5","2020-01-22","clark","nevada",0,0,1
-"6","2020-01-22","new york city","new york",0,0,1
+"6","2020-01-22","newyork","new york",0,0,1
 "7","2020-01-22","snohomish","washington",1,0,0
-"8","2020-01-23","los angeles","california",0,0,1
-"9","2020-01-23","san francisco","california",0,0,4
+"8","2020-01-23","losangeles","california",0,0,1
+"9","2020-01-23","sanfrancisco","california",0,0,4
 "10","2020-01-23","dekalb","georgia",0,0,1
 "11","2020-01-23","fulton","georgia",0,0,1
 "12","2020-01-23","multnomah","oregon",0,0,1
 "13","2020-01-23","lancaster","pennsylvania",0,0,3
 "14","2020-01-23","snohomish","washington",1,0,0
-"15","2020-01-24","los angeles","california",0,0,3
+"15","2020-01-24","losangeles","california",0,0,3
 "16","2020-01-24","sacramento","california",0,0,1
-"17","2020-01-24","san francisco","california",0,0,5
+"17","2020-01-24","sanfrancisco","california",0,0,5
 "18","2020-01-24","sarasota","florida",0,0,1
 "19","2020-01-24","cook","illinois",1,0,1
 "20","2020-01-24","sangamon","illinois",0,0,1
-"21","2020-01-24","anne arundel","maryland",0,0,1
+"21","2020-01-24","annearundel","maryland",0,0,1
 "22","2020-01-24","clark","nevada",0,0,1
-"23","2020-01-24","new york city","new york",0,0,2
+"23","2020-01-24","newyork","new york",0,0,2
 "24","2020-01-24","wake","north carolina",0,0,1
 "25","2020-01-24","delaware","ohio",0,0,1
 "26","2020-01-24","multnomah","oregon",0,0,2
@@ -30,21 +30,21 @@
 "29","2020-01-24","snohomish","washington",1,0,0
 "30","2020-01-24","milwaukee","wisconsin",0,0,1
 "31","2020-01-25","pinal","arizona",0,0,1
-"32","2020-01-25","los angeles","california",0,0,1
+"32","2020-01-25","losangeles","california",0,0,1
 "33","2020-01-25","monterey","california",0,0,1
 "34","2020-01-25","orange","california",1,0,0
-"35","2020-01-25","san francisco","california",0,0,8
-"36","2020-01-25","santa clara","california",0,0,1
+"35","2020-01-25","sanfrancisco","california",0,0,8
+"36","2020-01-25","santaclara","california",0,0,1
 "37","2020-01-25","sonoma","california",0,0,1
-"38","2020-01-25","district of columbia","district of columbia",0,0,1
+"38","2020-01-25","districtof columbia","district of columbia",0,0,1
 "39","2020-01-25","duval","florida",0,0,1
 "40","2020-01-25","cook","illinois",1,0,2
 "41","2020-01-25","lake","indiana",0,0,1
 "42","2020-01-25","marion","indiana",0,0,1
 "43","2020-01-25","hampden","massachusetts",0,0,2
-"44","2020-01-25","big horn","montana",0,0,1
+"44","2020-01-25","bighorn","montana",0,0,1
 "45","2020-01-25","monroe","new york",0,0,1
-"46","2020-01-25","new york city","new york",0,0,2
+"46","2020-01-25","newyork","new york",0,0,2
 "47","2020-01-25","durham","north carolina",0,0,1
 "48","2020-01-25","seneca","ohio",0,0,1
 "49","2020-01-25","multnomah","oregon",0,0,2
@@ -55,187 +55,185 @@
 "54","2020-01-25","snohomish","washington",1,0,0
 "55","2020-01-26","maricopa","arizona",1,0,1
 "56","2020-01-26","washington","arkansas",0,0,1
-"57","2020-01-26","los angeles","california",1,0,1
+"57","2020-01-26","losangeles","california",1,0,1
 "58","2020-01-26","orange","california",1,0,2
-"59","2020-01-26","san francisco","california",0,0,6
-"60","2020-01-26","san joaquin","california",0,0,1
+"59","2020-01-26","sanfrancisco","california",0,0,6
+"60","2020-01-26","sanjoaquin","california",0,0,1
 "61","2020-01-26","fulton","georgia",0,0,2
 "62","2020-01-26","cook","illinois",1,0,0
 "63","2020-01-26","kenton","kentucky",0,0,1
 "64","2020-01-26","union","new jersey",0,0,1
-"65","2020-01-26","new york city","new york",0,0,2
-"66","2020-01-26","new york city","new york",0,0,3
-"67","2020-01-26","multnomah","oregon",0,0,1
-"68","2020-01-26","lackawanna","pennsylvania",0,0,1
-"69","2020-01-26","harris","texas",0,0,1
-"70","2020-01-26","travis","texas",0,0,2
-"71","2020-01-26","snohomish","washington",1,0,0
-"72","2020-01-27","fairbanks north star","alaska",0,0,1
-"73","2020-01-27","maricopa","arizona",1,0,0
-"74","2020-01-27","los angeles","california",1,0,2
-"75","2020-01-27","orange","california",1,0,0
-"76","2020-01-27","san francisco","california",0,0,6
-"77","2020-01-27","santa clara","california",0,0,1
-"78","2020-01-27","district of columbia","district of columbia",0,0,1
-"79","2020-01-27","charlotte","florida",0,0,1
-"80","2020-01-27","hillsborough","florida",0,0,1
-"81","2020-01-27","orange","florida",0,0,1
-"82","2020-01-27","pasco","florida",0,0,1
-"83","2020-01-27","columbia","georgia",0,0,1
-"84","2020-01-27","cook","illinois",1,0,0
-"85","2020-01-27","wichita","kansas",0,0,1
-"86","2020-01-27","prince georges","maryland",0,0,1
-"87","2020-01-27","clark","nevada",0,0,1
-"88","2020-01-27","new york city","new york",0,0,5
-"89","2020-01-27","lackawanna","pennsylvania",0,0,1
-"90","2020-01-27","travis","texas",0,0,1
-"91","2020-01-27","snohomish","washington",1,0,0
-"92","2020-01-28","maricopa","arizona",1,0,1
-"93","2020-01-28","los angeles","california",1,0,5
-"94","2020-01-28","orange","california",1,0,0
-"95","2020-01-28","san francisco","california",0,0,11
-"96","2020-01-28","san mateo","california",0,0,1
-"97","2020-01-28","santa clara","california",0,0,1
-"98","2020-01-28","garfield","colorado",0,0,1
-"99","2020-01-28","middlesex","connecticut",0,0,1
-"100","2020-01-28","leon","florida",0,0,1
-"101","2020-01-28","miamidade","florida",0,0,1
-"102","2020-01-28","orange","florida",0,0,1
-"103","2020-01-28","pinellas","florida",0,0,1
-"104","2020-01-28","cook","illinois",1,0,2
-"105","2020-01-28","kenton","kentucky",0,0,1
-"106","2020-01-28","clark","nevada",0,0,2
-"107","2020-01-28","bernalillo","new mexico",0,0,1
-"108","2020-01-28","albany","new york",0,0,1
-"109","2020-01-28","erie","new york",0,0,1
-"110","2020-01-28","new york city","new york",0,0,2
-"111","2020-01-28","preble","ohio",0,0,1
-"112","2020-01-28","multnomah","oregon",0,0,2
-"113","2020-01-28","delaware","pennsylvania",0,0,1
-"114","2020-01-28","lackawanna","pennsylvania",0,0,2
-"115","2020-01-28","philadelphia","pennsylvania",0,0,2
-"116","2020-01-28","salt lake","utah",0,0,1
-"117","2020-01-28","summit","utah",0,0,1
-"118","2020-01-28","king","washington",0,0,1
-"119","2020-01-28","snohomish","washington",1,0,0
-"120","2020-01-29","maricopa","arizona",1,0,1
-"121","2020-01-29","alameda","california",0,0,1
-"122","2020-01-29","los angeles","california",1,0,3
-"123","2020-01-29","orange","california",1,0,3
-"124","2020-01-29","riverside","california",0,0,5
-"125","2020-01-29","san bernardino","california",0,0,2
-"126","2020-01-29","san francisco","california",0,0,8
-"127","2020-01-29","santa clara","california",0,0,1
-"128","2020-01-29","sonoma","california",0,0,1
-"129","2020-01-29","ventura","california",0,0,1
-"130","2020-01-29","denver","colorado",0,0,1
-"131","2020-01-29","hartford","connecticut",0,0,1
-"132","2020-01-29","district of columbia","district of columbia",0,0,2
-"133","2020-01-29","palm beach","florida",0,0,1
-"134","2020-01-29","volusia","florida",0,0,1
-"135","2020-01-29","fulton","georgia",0,0,1
-"136","2020-01-29","cook","illinois",1,0,0
-"137","2020-01-29","dupage","illinois",0,0,2
-"138","2020-01-29","orleans parish","louisiana",0,0,1
-"139","2020-01-29","kennebec","maine",0,0,1
-"140","2020-01-29","worcester","massachusetts",0,0,1
-"141","2020-01-29","clark","nevada",0,0,2
-"142","2020-01-29","hillsborough","new hampshire",0,0,1
-"143","2020-01-29","albany","new york",0,0,1
-"144","2020-01-29","new york city","new york",0,0,7
-"145","2020-01-29","butler","ohio",0,0,1
-"146","2020-01-29","cuyahoga","ohio",0,0,2
-"147","2020-01-29","preble","ohio",0,0,1
-"148","2020-01-29","summit","ohio",0,0,1
-"149","2020-01-29","deschutes","oregon",0,0,1
-"150","2020-01-29","lackawanna","pennsylvania",0,0,2
-"151","2020-01-29","lehigh","pennsylvania",0,0,2
-"152","2020-01-29","monroe","pennsylvania",0,0,1
-"153","2020-01-29","san juan","puerto rico",0,0,1
-"154","2020-01-29","richland","south carolina",0,0,1
-"155","2020-01-29","harris","texas",0,0,1
-"156","2020-01-29","shelby","texas",0,0,1
-"157","2020-01-29","uvalde","texas",0,0,1
-"158","2020-01-29","loudoun","virginia",0,0,1
-"159","2020-01-29","snohomish","washington",1,0,0
-"160","2020-01-30","fairbanks north star","alaska",0,0,1
-"161","2020-01-30","maricopa","arizona",1,0,0
-"162","2020-01-30","faulkner","arkansas",0,0,1
-"163","2020-01-30","fresno","california",0,0,1
-"164","2020-01-30","los angeles","california",1,0,7
-"165","2020-01-30","orange","california",1,0,2
-"166","2020-01-30","riverside","california",0,0,6
-"167","2020-01-30","san diego","california",0,0,4
-"168","2020-01-30","san francisco","california",0,0,12
-"169","2020-01-30","san mateo","california",0,0,1
-"170","2020-01-30","santa clara","california",0,0,2
-"171","2020-01-30","eagle","colorado",0,0,1
-"172","2020-01-30","district of columbia","district of columbia",0,0,3
-"173","2020-01-30","hillsborough","florida",0,0,3
-"174","2020-01-30","miamidade","florida",0,0,1
-"175","2020-01-30","pinellas","florida",0,0,1
-"176","2020-01-30","fulton","georgia",0,0,2
-"177","2020-01-30","honolulu","hawaii",0,0,3
-"178","2020-01-30","cook","illinois",2,0,3
-"179","2020-01-30","grundy","illinois",0,0,1
-"180","2020-01-30","kennebec","maine",0,0,1
-"181","2020-01-30","worcester","massachusetts",0,0,1
-"182","2020-01-30","clark","nevada",0,0,1
-"183","2020-01-30","erie","new york",0,0,1
-"184","2020-01-30","new york city","new york",0,0,8
-"185","2020-01-30","onondaga","new york",0,0,1
-"186","2020-01-30","schenectady","new york",0,0,1
-"187","2020-01-30","tompkins","new york",0,0,1
-"188","2020-01-30","westchester","new york",0,0,1
-"189","2020-01-30","cuyahoga","ohio",0,0,1
-"190","2020-01-30","multnomah","oregon",0,0,2
-"191","2020-01-30","philadelphia","pennsylvania",0,0,4
-"192","2020-01-30","charleston","south carolina",0,0,1
-"193","2020-01-30","dallas","texas",0,0,1
-"194","2020-01-30","harris","texas",0,0,2
-"195","2020-01-30","hays","texas",0,0,1
-"196","2020-01-30","fairfax","virginia",0,0,1
-"197","2020-01-30","prince william","virginia",0,0,2
-"198","2020-01-30","snohomish","washington",1,0,0
-"199","2020-01-31","maricopa","arizona",1,0,1
-"200","2020-01-31","pima","arizona",0,0,1
-"201","2020-01-31","alameda","california",0,0,1
-"202","2020-01-31","los angeles","california",1,0,6
-"203","2020-01-31","orange","california",1,0,2
-"204","2020-01-31","placer","california",0,0,1
-"205","2020-01-31","riverside","california",0,0,5
-"206","2020-01-31","san francisco","california",0,0,22
-"207","2020-01-31","santa clara","california",1,0,2
-"208","2020-01-31","hillsborough","florida",0,0,1
-"209","2020-01-31","miamidade","florida",0,0,4
-"210","2020-01-31","saint johns","florida",0,0,1
-"211","2020-01-31","cherokee","georgia",0,0,1
-"212","2020-01-31","fulton","georgia",0,0,1
-"213","2020-01-31","gwinnett","georgia",0,0,1
-"214","2020-01-31","honolulu","hawaii",0,0,1
-"215","2020-01-31","cook","illinois",2,0,3
-"216","2020-01-31","lyon","kansas",0,0,1
-"217","2020-01-31","middlesex","massachusetts",0,0,1
-"218","2020-01-31","suffolk","massachusetts",0,0,1
-"219","2020-01-31","macomb","michigan",0,0,1
-"220","2020-01-31","clark","nevada",0,0,2
-"221","2020-01-31","bergen","new jersey",0,0,1
-"222","2020-01-31","lewis","new york",0,0,1
-"223","2020-01-31","new york city","new york",0,0,7
-"224","2020-01-31","new york city","new york",0,0,9
-"225","2020-01-31","ontario","new york",0,0,1
-"226","2020-01-31","mecklenburg","north carolina",0,0,1
-"227","2020-01-31","rowan","north carolina",0,0,1
-"228","2020-01-31","wake","north carolina",0,0,1
-"229","2020-01-31","cuyahoga","ohio",0,0,1
-"230","2020-01-31","hamilton","ohio",0,0,1
-"231","2020-01-31","multnomah","oregon",0,0,3
-"232","2020-01-31","lackawanna","pennsylvania",0,0,2
-"233","2020-01-31","lancaster","pennsylvania",0,0,1
-"234","2020-01-31","lehigh","pennsylvania",0,0,1
-"235","2020-01-31","minnehaha","south dakota",0,0,1
-"236","2020-01-31","dallas","texas",0,0,1
-"237","2020-01-31","gregg","texas",0,0,1
-"238","2020-01-31","harris","texas",0,0,2
-"239","2020-01-31","snohomish","washington",1,0,0
-"240","2020-01-31","mercer","west virginia",0,0,1
+"65","2020-01-26","newyork","new york",0,0,3
+"66","2020-01-26","multnomah","oregon",0,0,1
+"67","2020-01-26","lackawanna","pennsylvania",0,0,1
+"68","2020-01-26","harris","texas",0,0,1
+"69","2020-01-26","travis","texas",0,0,2
+"70","2020-01-26","snohomish","washington",1,0,0
+"71","2020-01-27","fairbanksnorth star","alaska",0,0,1
+"72","2020-01-27","maricopa","arizona",1,0,0
+"73","2020-01-27","losangeles","california",1,0,2
+"74","2020-01-27","orange","california",1,0,0
+"75","2020-01-27","sanfrancisco","california",0,0,6
+"76","2020-01-27","santaclara","california",0,0,1
+"77","2020-01-27","districtof columbia","district of columbia",0,0,1
+"78","2020-01-27","charlotte","florida",0,0,1
+"79","2020-01-27","hillsborough","florida",0,0,1
+"80","2020-01-27","orange","florida",0,0,1
+"81","2020-01-27","pasco","florida",0,0,1
+"82","2020-01-27","columbia","georgia",0,0,1
+"83","2020-01-27","cook","illinois",1,0,0
+"84","2020-01-27","wichita","kansas",0,0,1
+"85","2020-01-27","princegeorges","maryland",0,0,1
+"86","2020-01-27","clark","nevada",0,0,1
+"87","2020-01-27","newyork","new york",0,0,5
+"88","2020-01-27","lackawanna","pennsylvania",0,0,1
+"89","2020-01-27","travis","texas",0,0,1
+"90","2020-01-27","snohomish","washington",1,0,0
+"91","2020-01-28","maricopa","arizona",1,0,1
+"92","2020-01-28","losangeles","california",1,0,5
+"93","2020-01-28","orange","california",1,0,0
+"94","2020-01-28","sanfrancisco","california",0,0,11
+"95","2020-01-28","sanmateo","california",0,0,1
+"96","2020-01-28","santaclara","california",0,0,1
+"97","2020-01-28","garfield","colorado",0,0,1
+"98","2020-01-28","middlesex","connecticut",0,0,1
+"99","2020-01-28","leon","florida",0,0,1
+"100","2020-01-28","miamidade","florida",0,0,1
+"101","2020-01-28","orange","florida",0,0,1
+"102","2020-01-28","pinellas","florida",0,0,1
+"103","2020-01-28","cook","illinois",1,0,2
+"104","2020-01-28","kenton","kentucky",0,0,1
+"105","2020-01-28","clark","nevada",0,0,2
+"106","2020-01-28","bernalillo","new mexico",0,0,1
+"107","2020-01-28","albany","new york",0,0,1
+"108","2020-01-28","erie","new york",0,0,1
+"109","2020-01-28","newyork","new york",0,0,2
+"110","2020-01-28","preble","ohio",0,0,1
+"111","2020-01-28","multnomah","oregon",0,0,2
+"112","2020-01-28","delaware","pennsylvania",0,0,1
+"113","2020-01-28","lackawanna","pennsylvania",0,0,2
+"114","2020-01-28","philadelphia","pennsylvania",0,0,2
+"115","2020-01-28","saltlake","utah",0,0,1
+"116","2020-01-28","summit","utah",0,0,1
+"117","2020-01-28","king","washington",0,0,1
+"118","2020-01-28","snohomish","washington",1,0,0
+"119","2020-01-29","maricopa","arizona",1,0,1
+"120","2020-01-29","alameda","california",0,0,1
+"121","2020-01-29","losangeles","california",1,0,3
+"122","2020-01-29","orange","california",1,0,3
+"123","2020-01-29","riverside","california",0,0,5
+"124","2020-01-29","sanbernardino","california",0,0,2
+"125","2020-01-29","sanfrancisco","california",0,0,8
+"126","2020-01-29","santaclara","california",0,0,1
+"127","2020-01-29","sonoma","california",0,0,1
+"128","2020-01-29","ventura","california",0,0,1
+"129","2020-01-29","denver","colorado",0,0,1
+"130","2020-01-29","hartford","connecticut",0,0,1
+"131","2020-01-29","districtof columbia","district of columbia",0,0,2
+"132","2020-01-29","palmbeach","florida",0,0,1
+"133","2020-01-29","volusia","florida",0,0,1
+"134","2020-01-29","fulton","georgia",0,0,1
+"135","2020-01-29","cook","illinois",1,0,0
+"136","2020-01-29","dupage","illinois",0,0,2
+"137","2020-01-29","orleansparish","louisiana",0,0,1
+"138","2020-01-29","kennebec","maine",0,0,1
+"139","2020-01-29","worcester","massachusetts",0,0,1
+"140","2020-01-29","clark","nevada",0,0,2
+"141","2020-01-29","hillsborough","new hampshire",0,0,1
+"142","2020-01-29","albany","new york",0,0,1
+"143","2020-01-29","newyork","new york",0,0,7
+"144","2020-01-29","butler","ohio",0,0,1
+"145","2020-01-29","cuyahoga","ohio",0,0,2
+"146","2020-01-29","preble","ohio",0,0,1
+"147","2020-01-29","summit","ohio",0,0,1
+"148","2020-01-29","deschutes","oregon",0,0,1
+"149","2020-01-29","lackawanna","pennsylvania",0,0,2
+"150","2020-01-29","lehigh","pennsylvania",0,0,2
+"151","2020-01-29","monroe","pennsylvania",0,0,1
+"152","2020-01-29","sanjuan","puerto rico",0,0,1
+"153","2020-01-29","richland","south carolina",0,0,1
+"154","2020-01-29","harris","texas",0,0,1
+"155","2020-01-29","shelby","texas",0,0,1
+"156","2020-01-29","uvalde","texas",0,0,1
+"157","2020-01-29","loudoun","virginia",0,0,1
+"158","2020-01-29","snohomish","washington",1,0,0
+"159","2020-01-30","fairbanksnorth star","alaska",0,0,1
+"160","2020-01-30","maricopa","arizona",1,0,0
+"161","2020-01-30","faulkner","arkansas",0,0,1
+"162","2020-01-30","fresno","california",0,0,1
+"163","2020-01-30","losangeles","california",1,0,7
+"164","2020-01-30","orange","california",1,0,2
+"165","2020-01-30","riverside","california",0,0,6
+"166","2020-01-30","sandiego","california",0,0,4
+"167","2020-01-30","sanfrancisco","california",0,0,12
+"168","2020-01-30","sanmateo","california",0,0,1
+"169","2020-01-30","santaclara","california",0,0,2
+"170","2020-01-30","eagle","colorado",0,0,1
+"171","2020-01-30","districtof columbia","district of columbia",0,0,3
+"172","2020-01-30","hillsborough","florida",0,0,3
+"173","2020-01-30","miamidade","florida",0,0,1
+"174","2020-01-30","pinellas","florida",0,0,1
+"175","2020-01-30","fulton","georgia",0,0,2
+"176","2020-01-30","honolulu","hawaii",0,0,3
+"177","2020-01-30","cook","illinois",2,0,3
+"178","2020-01-30","grundy","illinois",0,0,1
+"179","2020-01-30","kennebec","maine",0,0,1
+"180","2020-01-30","worcester","massachusetts",0,0,1
+"181","2020-01-30","clark","nevada",0,0,1
+"182","2020-01-30","erie","new york",0,0,1
+"183","2020-01-30","newyork","new york",0,0,8
+"184","2020-01-30","onondaga","new york",0,0,1
+"185","2020-01-30","schenectady","new york",0,0,1
+"186","2020-01-30","tompkins","new york",0,0,1
+"187","2020-01-30","westchester","new york",0,0,1
+"188","2020-01-30","cuyahoga","ohio",0,0,1
+"189","2020-01-30","multnomah","oregon",0,0,2
+"190","2020-01-30","philadelphia","pennsylvania",0,0,4
+"191","2020-01-30","charleston","south carolina",0,0,1
+"192","2020-01-30","dallas","texas",0,0,1
+"193","2020-01-30","harris","texas",0,0,2
+"194","2020-01-30","hays","texas",0,0,1
+"195","2020-01-30","fairfax","virginia",0,0,1
+"196","2020-01-30","princewilliam","virginia",0,0,2
+"197","2020-01-30","snohomish","washington",1,0,0
+"198","2020-01-31","maricopa","arizona",1,0,1
+"199","2020-01-31","pima","arizona",0,0,1
+"200","2020-01-31","alameda","california",0,0,1
+"201","2020-01-31","losangeles","california",1,0,6
+"202","2020-01-31","orange","california",1,0,2
+"203","2020-01-31","placer","california",0,0,1
+"204","2020-01-31","riverside","california",0,0,5
+"205","2020-01-31","sanfrancisco","california",0,0,22
+"206","2020-01-31","santaclara","california",1,0,2
+"207","2020-01-31","hillsborough","florida",0,0,1
+"208","2020-01-31","miamidade","florida",0,0,4
+"209","2020-01-31","saintjohns","florida",0,0,1
+"210","2020-01-31","cherokee","georgia",0,0,1
+"211","2020-01-31","fulton","georgia",0,0,1
+"212","2020-01-31","gwinnett","georgia",0,0,1
+"213","2020-01-31","honolulu","hawaii",0,0,1
+"214","2020-01-31","cook","illinois",2,0,3
+"215","2020-01-31","lyon","kansas",0,0,1
+"216","2020-01-31","middlesex","massachusetts",0,0,1
+"217","2020-01-31","suffolk","massachusetts",0,0,1
+"218","2020-01-31","macomb","michigan",0,0,1
+"219","2020-01-31","clark","nevada",0,0,2
+"220","2020-01-31","bergen","new jersey",0,0,1
+"221","2020-01-31","lewis","new york",0,0,1
+"222","2020-01-31","newyork","new york",0,0,9
+"223","2020-01-31","ontario","new york",0,0,1
+"224","2020-01-31","mecklenburg","north carolina",0,0,1
+"225","2020-01-31","rowan","north carolina",0,0,1
+"226","2020-01-31","wake","north carolina",0,0,1
+"227","2020-01-31","cuyahoga","ohio",0,0,1
+"228","2020-01-31","hamilton","ohio",0,0,1
+"229","2020-01-31","multnomah","oregon",0,0,3
+"230","2020-01-31","lackawanna","pennsylvania",0,0,2
+"231","2020-01-31","lancaster","pennsylvania",0,0,1
+"232","2020-01-31","lehigh","pennsylvania",0,0,1
+"233","2020-01-31","minnehaha","south dakota",0,0,1
+"234","2020-01-31","dallas","texas",0,0,1
+"235","2020-01-31","gregg","texas",0,0,1
+"236","2020-01-31","harris","texas",0,0,2
+"237","2020-01-31","snohomish","washington",1,0,0
+"238","2020-01-31","mercer","west virginia",0,0,1
