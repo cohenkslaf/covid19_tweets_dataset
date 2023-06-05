@@ -2457,7 +2457,7 @@ The plots below show the normalized COVID-19 Cased vs the normalized number of g
 
 #### Top 2 least  populated states
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/Graph%20of%202yoming.jpg)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/Graph%20of%20wyoming.jpg)
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/Graph%20of%20vermont.jpg)
 
