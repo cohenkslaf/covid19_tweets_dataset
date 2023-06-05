@@ -2440,8 +2440,27 @@ protocolo
 <td align="right">129</td>
 </tr>
 </tbody></table>
+The plot below show the number of geolocated Tweets over time:
 
 ![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/GeoTweets_US.png)
+
+
+
+The plots below show the normalized COVID-19 Cased vs the normalized number of geolocated Tweets for the top 2 most populated states and the top 2 least populated state:
+
+#### Top 2 most populated states
+
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/Graph%20of%20california.jpg)
+
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/Graph%20of%20texas.jpg)
+
+
+#### Top 2 least  populated states
+
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/Graph%20of%202yoming.jpg)
+
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/Graph%20of%20vermont.jpg)
+
 
 ## Data Collection Process Inconsistencies
 
