@@ -2206,6 +2206,243 @@ protocolo
 </tbody>
 </table>
 
+## NY Time COVID-19 data and Geolocated Tweets US
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">US States</th>
+<th title="Field #2">Geolocated Tweet Count</th>
+</tr></thead>
+<tbody><tr>
+<td>alabama</td>
+<td align="right">2001</td>
+</tr>
+<tr>
+<td>alaska</td>
+<td align="right">276</td>
+</tr>
+<tr>
+<td>american samoa</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>arizona</td>
+<td align="right">3655</td>
+</tr>
+<tr>
+<td>arkansas</td>
+<td align="right">1540</td>
+</tr>
+<tr>
+<td>california</td>
+<td align="right">41380</td>
+</tr>
+<tr>
+<td>colorado</td>
+<td align="right">2546</td>
+</tr>
+<tr>
+<td>connecticut</td>
+<td align="right">1756</td>
+</tr>
+<tr>
+<td>delaware</td>
+<td align="right">584</td>
+</tr>
+<tr>
+<td>district of columbia</td>
+<td align="right">5069</td>
+</tr>
+<tr>
+<td>florida</td>
+<td align="right">14382</td>
+</tr>
+<tr>
+<td>georgia</td>
+<td align="right">7463</td>
+</tr>
+<tr>
+<td>guam</td>
+<td align="right">57</td>
+</tr>
+<tr>
+<td>hawaii</td>
+<td align="right">2146</td>
+</tr>
+<tr>
+<td>idaho</td>
+<td align="right">482</td>
+</tr>
+<tr>
+<td>illinois</td>
+<td align="right">5530</td>
+</tr>
+<tr>
+<td>indiana</td>
+<td align="right">2319</td>
+</tr>
+<tr>
+<td>iowa</td>
+<td align="right">675</td>
+</tr>
+<tr>
+<td>kansas</td>
+<td align="right">1393</td>
+</tr>
+<tr>
+<td>kentucky</td>
+<td align="right">1453</td>
+</tr>
+<tr>
+<td>louisiana</td>
+<td align="right">4296</td>
+</tr>
+<tr>
+<td>maine</td>
+<td align="right">672</td>
+</tr>
+<tr>
+<td>maryland</td>
+<td align="right">5904</td>
+</tr>
+<tr>
+<td>massachusetts</td>
+<td align="right">4236</td>
+</tr>
+<tr>
+<td>michigan</td>
+<td align="right">4823</td>
+</tr>
+<tr>
+<td>minnesota</td>
+<td align="right">2245</td>
+</tr>
+<tr>
+<td>mississippi</td>
+<td align="right">835</td>
+</tr>
+<tr>
+<td>missouri</td>
+<td align="right">2051</td>
+</tr>
+<tr>
+<td>montana</td>
+<td align="right">1176</td>
+</tr>
+<tr>
+<td>nebraska</td>
+<td align="right">1650</td>
+</tr>
+<tr>
+<td>nevada</td>
+<td align="right">2688</td>
+</tr>
+<tr>
+<td>new hampshire</td>
+<td align="right">608</td>
+</tr>
+<tr>
+<td>new jersey</td>
+<td align="right">4947</td>
+</tr>
+<tr>
+<td>new mexico</td>
+<td align="right">909</td>
+</tr>
+<tr>
+<td>new york</td>
+<td align="right">28003</td>
+</tr>
+<tr>
+<td>north carolina</td>
+<td align="right">4755</td>
+</tr>
+<tr>
+<td>north dakota</td>
+<td align="right">155</td>
+</tr>
+<tr>
+<td>northern mariana islands</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>ohio</td>
+<td align="right">4704</td>
+</tr>
+<tr>
+<td>oklahoma</td>
+<td align="right">1040</td>
+</tr>
+<tr>
+<td>oregon</td>
+<td align="right">10814</td>
+</tr>
+<tr>
+<td>pennsylvania</td>
+<td align="right">5596</td>
+</tr>
+<tr>
+<td>puerto rico</td>
+<td align="right">749</td>
+</tr>
+<tr>
+<td>rhode island</td>
+<td align="right">608</td>
+</tr>
+<tr>
+<td>south carolina</td>
+<td align="right">2251</td>
+</tr>
+<tr>
+<td>south dakota</td>
+<td align="right">251</td>
+</tr>
+<tr>
+<td>tennessee</td>
+<td align="right">2960</td>
+</tr>
+<tr>
+<td>texas</td>
+<td align="right">12852</td>
+</tr>
+<tr>
+<td>united states virgin islands</td>
+<td align="right">63</td>
+</tr>
+<tr>
+<td>utah</td>
+<td align="right">1260</td>
+</tr>
+<tr>
+<td>vermont</td>
+<td align="right">500</td>
+</tr>
+<tr>
+<td>virgin islands</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td>virginia</td>
+<td align="right">5772</td>
+</tr>
+<tr>
+<td>washington</td>
+<td align="right">3451</td>
+</tr>
+<tr>
+<td>west virginia</td>
+<td align="right">538</td>
+</tr>
+<tr>
+<td>wisconsin</td>
+<td align="right">1414</td>
+</tr>
+<tr>
+<td>wyoming</td>
+<td align="right">129</td>
+</tr>
+</tbody></table>
+
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/NYT_COVID_with_Reverse_Geo/GeoTweets_US.png)
+
 ## Data Collection Process Inconsistencies
 
 Only tweets in English were collected from 22 January to 31 January
